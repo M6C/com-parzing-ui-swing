@@ -1,0 +1,79 @@
+<!-- saved from url=(0021)http://jiffie.sf.net/ -->
+<html>
+   <head>
+      <title>Anchor Test</title>
+   </head>
+
+   <script language="JavaScript">
+      function navigate_onclick ()
+      {
+         window.location="anchortarget.htm";
+         return false;
+      }
+
+      function navigate_alert ()
+      {
+         alert("About to navigate");
+         window.location="anchortarget.htm";
+         return false;
+      }
+
+      function navigate_confirm ()
+      {
+         var result = confirm("About to navigate");
+         if (result == true)
+         {
+            window.location="anchortarget.htm";
+         }
+         return false;
+      }
+
+      function navigate_popup ()
+      {
+         window.open ("anchortarget.htm", "", "");
+         return false;
+      }
+
+      function navigate_prompt ()
+      {
+         var result = prompt("Enter some text");
+         document.forms[0].input1.value = result;
+         return false;
+      }
+
+      function navigate_modal ()
+      {
+         window.showModalDialog("dialogtarget.htm", window, "");
+         return false;
+      }
+
+      function navigate_modeless ()
+      {
+         window.showModelessDialog("dialogtarget.htm", window, "");
+         return false;
+      }
+
+
+      
+   </script>
+
+   <body>
+      <a name="anchor1" href="anchortarget.htm">Simple Anchor</a>
+      <a name="anchor2" href="" onClick="return navigate_onclick()">On Click Anchor</a>
+      <a name="anchor3" href="" onClick="return navigate_alert()">Blocking Alert Anchor</a>
+      <a name="anchor4" href="" onClick="return navigate_confirm()">Blocking Confirm Anchor</a>
+      <a name="anchor5" href="anchortarget.htm" target="_blank">New Window Via Target Anchor</a>
+      <a name="anchor6" href="" onClick="return navigate_popup()">New Window Via On Click Anchor</a>
+      <a name="anchor7" href="" onClick="return navigate_prompt()">Blocking Prompt Anchor</a>
+      <a name="anchor8" href="" onClick="return navigate_modal()">Modal Dialog Anchor</a>
+      <a name="anchor9" href="" onClick="return navigate_modeless()">Modeless Dialog Anchor</a>
+
+      <form>
+         <input name="input1" value="">
+      </form>
+      
+      
+      <div id="dialogDocumentDiv"/>
+      
+   </body>
+</html>

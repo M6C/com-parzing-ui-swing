@@ -1,0 +1,23 @@
+<!-- saved from url=(0021)http://jiffie.sf.net/ -->
+<html>
+   <head>
+      <title>Dialog Target</title>
+      <script language="JavaScript">
+         function window_load ()
+         {
+            dialogArguments.document.getElementById("dialogDocumentDiv").dialogDocument = window.document;
+         }
+         
+         function navigate_close()
+         {
+            window.close();
+            return (false);
+         }
+      </script>
+   </head>
+
+   <body onload="window_load()">
+      <p>Dialog Target</p>
+      <p><a id="closeAnchor" href="" onclick="return navigate_close()">Close</a></p>      
+   </body>
+</html>

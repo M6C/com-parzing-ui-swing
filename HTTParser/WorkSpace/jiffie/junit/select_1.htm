@@ -1,0 +1,45 @@
+<!-- saved from url=(0021)http://jiffie.sf.net/ -->
+<html>
+   <head>
+      <title>Select Test</title>
+   </head>
+
+   <script language="JavaScript">
+      function onchange_handler ()
+      {
+         document.forms[0].input1.value="changed";
+         return true;
+      }
+   </script>
+
+   <body>
+      <form name="form_select_test">
+         <table id="table1">
+
+            <tr>
+               <td>
+                  <select name="select1">
+                     <option value="1" selected>a</option>
+                     <option value="2">b</option>
+                     <option value="3">c</option>
+                  </select>
+               </td>
+            </tr>
+
+            <tr>
+               <td>
+                  <select name="select2" onchange="return onchange_handler()">
+                     <option value="1" selected>a</option>
+                     <option value="2">b</option>
+                     <option value="3">c</option>
+                  </select>
+               </td>
+               <td>
+                  <input name="input1" value="">
+               </td>
+            </tr>
+
+         </table>
+      </form>
+   </body>
+</html>

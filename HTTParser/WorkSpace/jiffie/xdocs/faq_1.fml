@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<faqs title="Frequently Asked Questions">
+   <part id="general">
+      <title>General Questions</title> 
+      <faq id="embed-jiffie">
+         <question>
+            Where can I find sample code that shows me how to do ... with Jiffie?
+         </question> 
+         <answer>
+            <p>
+               In many cases if you are looking for some example code showing how
+               to achieve a particular task with Jiffie your best starting point
+               will be the source code for the JUnit tests distributed with Jiffie.
+               You'll find this source in the files whose namea end in Test.java.
+               One of the goals of the unit tests are to exercise Jiffie functionality
+               thoroughly, so you are likely to find many common use cases already
+               implemented. If you can't find what you need, have a look at the
+               mailing list archives, and if you are still in the dark, send a message
+               to the list.
+            </p> 
+         </answer>
+      </faq>            
+      <faq id="embed-jiffie">
+         <question>
+            I want to embed Internet Explorer in my Java AWT/Swing application, can I use 
+            Jiffie to achieve this?
+         </question> 
+         <answer>
+            <p>
+               It may be possible, but I haven't attempted it, and nobody has posted any
+               example code which does this. You may want to have a look at the 
+               <a href="http://groups.yahoo.com/group/jacob-project/" target="_blank">Jacob Project mailing list</a>
+               to see if other people have attempted this. Alternatively the 
+               <a href="http://jdic.dev.java.net/" target="_blank">JDIC project</a>
+               have implemented similar functionality.
+            </p> 
+         </answer>
+      </faq>      
+   </part>   
+   <part id="issues">
+      <title>Known Issues</title> 
+      <faq id="length-tag">
+         <question>
+            I have a document which contains an element with the name "length". 
+            When I use a method like getElementListByTag, the list returned by
+            the method seems to cause problems, particularly when I call the 
+            size method.
+         </question> 
+         <answer>
+            <p>
+               This is a known issue with Jiffie. What appears to be happening
+               is that when the size method of the list is called, the length
+               attribute of the underlying ElementList object is being
+               retrieved. Normally this should return a Variant representing
+               an integer, but where an element exists in the list with the name
+               "length", a Variant representing this list member itself is returned
+               rather than the integer list size. The only workaround at present
+               is to rename the element named "length" in the HTML document.
+               (Thanks to Christian Hargraves for reporting this).
+            </p> 
+         </answer>
+      </faq>      
+      
+      <faq id="parent-window">
+         <question>
+            I'm having trouble retrieving a reference to the parent window 
+            of a document.
+         </question> 
+         <answer>
+            <p>
+               So am I! I've tried various methods to retrieve the parent
+               window and use it with an implementation of the IHTMLWindow2 
+               interface but to no avail. I've even tried retrieving it by 
+               injecting JavaScript into the page using JiffieUtility.executeScript,
+               but with no luck. I don't know why retrieval of this property 
+               fails. A good suggestion I've heard is that it may be a conflict
+               between the threading models used by Internet Explorer and Jiffie,
+               but I'm not a COM expert... It is also not the only COM object property 
+               exposed by Internet Explorer which behaves this way.
+               If anyone has an answer for this please let me know!
+            </p> 
+            <p>
+               My only suggestion for a workaround is to perform whatever operation
+               you need to perform on the parent window using JavaScript, and inject 
+               this using JiffieUtility.executeScript. Don't try to retrieve the
+               window object itself back to Jiffie, just manipulate it via JavaScript
+               and return the results you are interested in.
+            </p>
+         </answer>
+      </faq>      
+            
+   </part>
+</faqs>

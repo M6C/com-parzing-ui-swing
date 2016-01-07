@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<ROOT>
+	<DATABASE-CONNECT>
+		<DRIVER>sun.jdbc.odbc.JdbcOdbcDriver</DRIVER>
+		<URL>jdbc:odbc:VideoFuture</URL>
+		<FILE></FILE>
+		<USER></USER>
+		<PASSWORD></PASSWORD>
+	</DATABASE-CONNECT>
+	<IHM-HTML>
+		<IMAGE-CLEAR>/images/PixClear.gif</IMAGE-CLEAR>
+	</IHM-HTML>
+</ROOT>
+

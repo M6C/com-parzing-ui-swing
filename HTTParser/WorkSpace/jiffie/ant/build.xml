@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<project name="jiffie" default="archive" basedir="..">
+
+<target name="init" depends="init-props,init-dirs" description="Initialize everything"/>
+
+<target name="init-props" description="Initialize properties">
+   <property name="src.dir" value="${basedir}/src" />
+   <property name="classes.dir" value="${basedir}/classes" />
+   <property name="doc.dir" value="${basedir}/doc/api" />
+   <property name="jiffie.jar.file" value="${basedir}/jiffie.jar" />   
+   <property name="distribution.file" value="${basedir}/../jiffie.zip" />
+   <property name="jacob.classpath" value="${basedir}/jacob.jar" />
+   <property name="jaxen.classpath" value="${basedir}/jaxen-1.1.1.jar" />
+   <property name="junit.classpath" value="${basedir}/junit.jar" />
+</target>
+
+<target name="init-dirs" depends="init-props" description="Initialize directories">
+   <mkdir dir="${classes.dir}"/>
+</target>
+
+<target name="compile" depends="init" description="Compile everything">
+   <javac srcdir="${src.dir}" destdir="${classes.dir}" classpath="${jacob.classpath}:${jaxen.classpath}:${junit.classpath}" debug="on" />
+</target>
+
+<target name="archive" depends="compile" description="Create JAR file">
+   <jar jarfile="${jiffie.jar.file}" basedir="${classes.dir}"/>
+</target>
+
+<target name="document" depends="init-props" description="Generate documentation">
+   <mkdir dir="${doc.dir}"/>
+   <javadoc 
+      sourcepath="${src.dir}"
+      classpath="${jacob.classpath}:${jaxen.classpath}:${junit.classpath}"
+      packagenames="net.sf.jiffie.*"
+      destdir="${doc.dir}"
+      verbose="no"
+      access="public">
+   </javadoc>
+</target>
+
+<target name="distribute" depends="compile,archive,clean-classes" description="Create distribution">
+   <zip zipfile="${distribution.file}">
+      <zipfileset dir="${basedir}" prefix="jiffie" excludes="**/CVSROOT/*,**/CVS/*"/>
+   </zip>
+</target>
+
+<target name="clean-classes" depends="init-props" description="Clean up class files">
+   <delete dir="${classes.dir}"/>
+</target>
+
+<target name="clean" depends="init-props, clean-classes" description="Clean up all files">
+   <delete file="${jiffie.jar.file}"/>
+   <delete dir="${doc.dir}"/>
+</target>
+
+</project>

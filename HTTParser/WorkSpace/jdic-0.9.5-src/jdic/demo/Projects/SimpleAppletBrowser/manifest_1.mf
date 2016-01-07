@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/jdic.jar lib/jdic_native_applet.jar
+

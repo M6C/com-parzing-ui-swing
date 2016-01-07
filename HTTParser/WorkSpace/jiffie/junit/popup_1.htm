@@ -1,0 +1,43 @@
+<!-- saved from url=(0021)http://jiffie.sf.net/ -->
+<html>
+	<head>
+	
+		<script>
+			var popup = window.createPopup();
+				
+			function load() {
+				var oPopBody = popup.document.body;
+			    oPopBody.style.backgroundColor = "lightyellow";
+			    oPopBody.style.border = "solid black 1px";
+			    oPopBody.innerHTML = "I am a popup!";
+				
+				
+				var x = document.getElementById("x");
+				x.popup = popup;
+				
+			}	
+			
+			function show() {
+				popup.show(100, 100, 180, 25, document.body);
+			}		
+			
+			function hide() {
+				popup.hide();
+			}
+			
+			
+		</script>
+	
+	</head>
+	
+	<body onload="load()">
+		<div id="x">create popup test.</div>
+	
+		<button id="butt" onclick="show();">show popup</button>
+		
+		<button id="butt2" onclick="hide();">hide popup</button>
+				
+		
+	</body>
+	
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://localhost/jdic" href="SampleAppletBrowser.jnlp">
+    <information>
+        <title>Simple Browser Applet</title>
+        <vendor>uta</vendor>
+        <homepage href="http://localhost/jdic/SampleAppletBrowser.html"/>
+        <description>JDIC Example Simple Browser Applet</description>
+        <description kind="short">Simple Browser Applet</description>
+        <offline-allowed/>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se href="http://java.sun.com/products/autodl/j2se" version="1.4+"/>
+        <jar href="SimpleAppletBrowser.jar" download="eager"/>
+        <jar href="lib/jdic.jar" download="eager"/>
+    </resources>
+
+    <resources os="Windows">
+	<jar href="lib/windows/jdic_stub.jar" download="eager"/>
+        <nativelib href="lib/windows/x86/jdic_native.jar" download="eager"/>
+    </resources>
+
+    <resources os="Linux">
+	<jar href="lib/linux/jdic_stub.jar" download="eager"/>
+        <nativelib href="lib/linux/x86/jdic_native.jar" download="eager"/>
+    </resources>
+
+    <resources os="SunOS">
+	<jar href="lib/sunos/jdic_stub.jar" download="eager"/>
+    </resources>
+    <resources os="SunOS" arch="i386">
+        <nativelib href="lib/sunos/x86/jdic_native.jar" download="eager"/>
+    </resources>
+    <resources os="SunOS" arch="sparc">
+        <nativelib href="lib/sunos/sparc/jdic_native.jar" download="eager"/>
+    </resources>
+
+    <applet-desc main-class="SimpleAppletBrowser" WIDTH="666" HEIGHT="999">
+    </applet-desc>
+</jnlp>

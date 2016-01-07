@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="wrk"/>
+	<classpathentry kind="lib" path="HTTParser.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Ressource/bin" sourcepath="/Ressource/src"/>
+	<classpathentry kind="lib" path="lib/borland"/>
+	<classpathentry kind="lib" path="lib/click-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jdic/jdic_native_applet.jar"/>
+	<classpathentry kind="lib" path="lib/jdic/jdic_stub_windows.jar"/>
+	<classpathentry kind="lib" path="lib/jdic/jdic.jar"/>
+	<classpathentry kind="lib" path="lib/jdic/windows/x86/jdic_native.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

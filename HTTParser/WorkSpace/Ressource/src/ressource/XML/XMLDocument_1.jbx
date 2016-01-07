@@ -1,0 +1,11 @@
+[PropertyInfo]
+begin,String,false,false, , ,false,<default>
+document,StringBuffer,false,false, , ,true,<default>
+end,String,false,false, , ,false,<default>
+extension,String,false,false, , ,false,<default>
+version,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

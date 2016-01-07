@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+
+<document>
+   <properties>
+      <title>Java InterFace For Internet Explorer</title> 
+      <author email="jon.iles@bcs.org.uk">Jon Iles</author> 
+   </properties> 
+
+   <body> 
+
+<section name="Introduction">
+<p>Welcome to Jiffie, a Java/JNI library which allows
+Microsoft Internet Explorer to be controlled from Java.
+The primary purpose of this library is to allow automated
+regression testing of web applications using a framework
+like JUnit.</p>
+
+<p>Jiffie is designed to be simple to use and easy to
+extend. It is not designed to be a complete
+implementation of all of the COM interfaces made
+available by Internet Explorer. Jiffie was originally used
+internally at my company, and its development was
+driven by my requirements. If you need it to do
+more, feel free to suggest enhancements, or better still,
+contribute some code!</p>
+</section>
+
+
+<section name="Getting Started">
+<p>The latest release of Jiffie can be downloaded by
+following <a href="http://sourceforge.net/project/showfiles.php?group_id=107338">this link</a>.
+In order to use Jiffie you need to ensure that jacob.dll
+can be found somewhere in your Windows PATH, and that
+jacob.jar and jiffie.jar can be found in your Java
+CLASSPATH. If you want to use the XPath features implemented by
+Jiffie, you will need to ensure that jaxen-core.jar and
+saxpath.jar can be found in your Java CLASSPATH. All of 
+these archives and libraries are supplied as part of the Jiffie
+distribution. Please note that Jiffie has only been tested
+against the Java 1.4.2 SDK. It has however been
+successfully tested with Internet Explorer versions 5.5, 6.0
+and 7.0.</p>
+</section>
+
+
+<section name="Sample Code">
+<p>All of the sample code supplied with Jiffie is in the
+form of a set of JUnit tests exercising Jiffie's
+functionality. If you want to understand how to do
+something with Jiffie, this is the best place to start
+looking. We have tried to make the documentation of these
+tests comprehensive to ensure that they are a useful
+reference for developers.</p>
+</section>
+
+
+<section name="Jiffie Classes and Documentation">
+<p>The Jiffie classes that correspond directly to Internet
+Explorer functionality have been given the same names as
+their equivalent COM interfaces. So for example the COM
+interface IHTMLDocument2 is implemented by the
+IHTMLDocument2 Java class. Jiffie comes with a basic set
+of Javadoc documentation, and comprehensive documentation
+describing the Internet Explorer's COM interfaces can be
+found <a href="http://msdn.microsoft.com/workshop/browser/mshtml/reference/ifaces/interface.asp" target="_blank">here</a>.</p>
+</section>
+
+<section name="Java-COM Bridge">
+<p>Jiffie is based on version 1.11.1 of the Jacob
+Java-COM bridge. The current Jacob distribution can be found at 
+<a href="http://www.sourceforge.net/projects/jacob-project" target="_blank">http://www.sourceforge.net/projects/jacob-project</a>. 
+</p>
+</section>
+
+<section name="Build">
+<p>Jiffie can be built using the ant build.xml file found in
+the ant directory of the distribution.</p>
+</section>
+
+<section name="Contributing">
+<p>Contributions are welcome, and easy to make. It would be 
+nice to expand the number of HTML element types explicitly 
+supported by Jiffie. You can manipulate pretty much all 
+HTML elements via the IHTMLElement class, but obviously you 
+don't get to use the attributes and methods unique to a 
+particular element. So have a look at the documentation 
+<a href="http://msdn.microsoft.com/workshop/browser/mshtml/reference/ifaces/interface.asp" target="_blank">here</a>.</p>
+
+
+<p>Pick an element to implement, and use an existing one 
+(e.g. IHTMLFormElement) as a template for implementing the 
+attributes and methods unique to your new element. You also 
+need to create a test case for your new element. 
+Once you are happy with that, 
+send us the results and we'll add them to Jiffie.</p>
+</section>
+
+
+<section name="Alternatives to Jiffie">
+<p>There are many ways of controlling
+Internet Explorer from a variety of programming languages.
+Here are a list of a few such projects that have come
+to our attention since we began working on Jiffie.
+If you have a piece of software that you think should
+be on this list, drop us a note and we'll be happy to
+add it!
+</p>
+
+<ul>
+<li><a href="http://selenium.thoughtworks.com">Selenium</a></li>
+<li><a href="http://sourceforge.net/projects/webunitproj/">Enterprise Web Test</a></li>
+<li><a href="http://www.jniwrapper.com/jexplorer.jsp">JExplorer</a></li>
+<li><a href="http://www.nolacom.com/avignon/index.asp">Avignon</a></li>
+<li><a href="http://ieunit.sourceforge.net/">IeUnit</a></li>
+<li><a href="http://sourceforge.net/projects/pyjtf/">PyJTF</a></li>
+<li><a href="http://jdic.dev.java.net/">JDIC</a></li>
+<li><a href="http://wtr.rubyforge.org/">Watir</a></li>
+</ul>
+</section>
+
+<section name="Contact Us">
+<p>I'm keen to hear from you about how you are using
+Jiffie, please drop me a note at jon.iles@bcs.org.uk.</p>
+</section>
+
+
+<section name="Licensing">
+<p>The original code to implement
+Jiffie is licensed under the GNU Public License, a copy
+of which can be found in the legal directory.</p> 
+
+<p>Although Jacob, JUnit and Jaxen libraries are supplied with 
+Jiffie for your convenience, they are all distributed under their
+own license agreements. You will find copies of these agreements
+in the legal subdirectory. <b>Please read these licenses carefully!</b></p>
+</section>
+
+<section name="Acknowledgements">
+<p>This product includes software developed by the Jacob Project (<a href="http://www.sourceforge.net/projects/jacob-project/" target="_blank">http://www.sourceforge.net/projects/jacob-project/</a>)</p> 
+<p>This product includes software developed by the Jaxen Project (<a href="http://www.jaxen.org/" target="_blank">http://www.jaxen.org/</a>)</p> 
+<p>This product includes software developed by the JUnit Project (<a href="http://www.junit.org/" target="_blank">http://www.junit.org/</a>)</p> 
+</section>
+
+   </body> 
+</document>
+

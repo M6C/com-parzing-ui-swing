@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/jdic/jdic-all.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdic/windows/x86/jdic_native.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="wrk"/>
+	<classpathentry exported="true" kind="lib" path="HTTParser.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/borland"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdic/jdic_native_applet.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdic/jdic_stub_windows.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdic/jdic.jar"/>
+	<classpathentry kind="lib" path="lib/click-1.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Parzing"/>
+	<classpathentry kind="lib" path="lib/FrameWork_Trace/bin"/>
+	<classpathentry kind="lib" path="/Ressource/lib/activation.jar"/>
+	<classpathentry kind="lib" path="/Ressource/lib/mail-2004-10-12.jar"/>
+	<classpathentry kind="lib" path="/Ressource/bin" sourcepath="/Ressource/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,186 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  September 1st 2009 9:51:19 AM PDT                            */
+/*      Machine:  10.16.139.105                                                */
+/*       Source:  Local Cache                                                  */
+/*     Location:  rsrc:4:nx50fhs4                                              */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/18ld4obimfvo4k4w.pkg.css                                 */
+
+.sharebox .set_divider{border-top:1px solid #ccc;margin:0}
+.sharebox #content{padding:0}
+.sharebox .media_header .inputtext{margin:0 7px}
+.tab_bar{padding:12px 10px 0 10px}
+.sharer_bar{text-align:left}
+.sharer_bar .inputtext{margin:0 0 10px 0;width:170px;/* @noflip */
+direction:ltr}
+.sharebox .empty_message{background:white;font-size:13px}
+.sharebox .empty_message .empty_sharer{background:#f7f7f7;padding:10px;text-align:center;border:1px solid #ccc;margin-top:10px}
+.sharebox .empty_message .empty_sharer #u{width:300px;margin-right:5px}
+.sharebox .empty_message .empty_sharer .inputsubmit{height:21px}
+.sharebox .sharebox_dialog{padding:0 0 15px 0}
+.sharebox .sharebox_dialog .status{margin:0}
+.thread .status{margin:10px 10px 0}
+.sharebox .sharebox_dialog #error{margin:0}
+.sharebox .share_help_dialog ul{padding:3px 0 0 0;margin:0;list-style:none;line-height:16px}
+.sharebox .post_actions{padding:6px 20px 5px;background:#f7f7f7;border-top:solid 1px #b7b7b7;border-bottom:solid 1px #ccc}
+.sharebox .sharebox_item{padding:0 0 20px}
+.sharebox_item{clear:both;padding:10px 20px 30px 20px}
+.share_owner_thumb{float:left;padding:0 0 10px 0;text-align:left;width:58px}
+.share_owner_thumb .user_picture{float:left;margin-right:10px;overflow:hidden;height:40px;width:40px}
+.share_owner_thumb img{display:block}
+.sharebox .share_contents{width:480px}
+.share_contents{float:left;width:365px}
+.no_thumb .share_contents{float:none;width:auto}
+.share_contents .share_header{background-color:#f7f7f7;border-bottom:1px solid #d8dfea;border-top:1px solid #3b5998;padding:4px 5px 2px 5px}
+.share_contents .share_header .shareicon{float:left;padding-right:8px;margin-bottom:8px}
+.share_contents .share_header .main_line{padding:0 0 2px 0}
+.share_contents .share_header .sub_line{font-size:9px;padding:0 0 1px 0}
+.share_contents .share_header a.owner{font-weight:bold}
+.share_contents .share_header .share_and_hide{float:right;margin:1px 0 0 5px}
+.share_contents .share_media{padding:8px 5px}
+.sharebox .summary_bar{border-bottom:0;border-top:1px solid #d8dfea;padding:4px 0 8px 5px}
+.sharebox .posted_side_column{padding:0 10px}
+.sharebox .posted_side_column .sidecolumn_module{padding:10px 0}
+.sharebox .posted_side_column .sidecolumn_module h2{margin:0;padding:0 0 5px 0;font-size:11px}
+.sharebox .posted_side_column .sidecolumn_module .friend_select select{margin-top:5px;width:178px}
+.accessibility_instructions{display:none}
+.sharebox .divider{border-bottom:solid 1px #fff;border-top:solid 1px #ddd;clear:both;height:0;margin:0}
+.sharebox .divider hr{display:none}
+.sharebox #syndication_sidebar{padding-left:0}
+.sharebox #share_button p{margin:5px 0 0 0}
+.sharebox #share_button label{display:block;padding:0 0 4px 0}
+.sharebox #share_button .share_bookmarklet a{background:#999;border:1px solid #999;color:#fff;display:block;float:left;font-weight:bold;padding:2px 4px}
+.sharebox #share_button .share_bookmarklet a:hover{text-decoration:none}
+.sharebox #share_button_dialog{background:white;border:1px solid #ccc;color:#000;padding:8px}
+.sharebox .footer_bar{background:white;clear:both}
+.share_options #content, .share_help #content, .share_partners #content{padding:0}
+.share_options .frame, .share_partners .frame{padding:20px;background:#fff}
+.share_help .frame{padding:0 15px 15px;margin-bottom:10px;background:#fff}
+.share_options #content h2 a, .share_partners #content h2 a, .share_help h2 a{margin-left:8px;font-weight:normal;font-size:11px}
+.share_options .steps{float:left;margin-top:8px;width:390px}
+.share_options .protip{border:1px solid #eee;background:#f7f7f7;padding:5px 8px;margin:12px 0 10px;width:155px;float:right}
+.share_options .paragraphs{float:left;margin:0 0 10px 0}
+.share_options .images{text-align:left;margin-right:8px}
+.share_options p{margin:0 0 10px 0}
+.share_options .step1, .share_options .step2{padding:10px 0 0 0}
+.share_options .step1{border-bottom:1px solid #d8dfea}
+.share_options .step1 .paragraphs{width:250px}
+.share_options .step1 .images{float:left;padding:7px 0 7px 0;width:125px}
+.share_options .step1 .images .arrow{margin:0 5px 0 0;float:right}
+.share_options .step2 .paragraphs{width:155px}
+.share_options .step2 .images{float:left;margin-top:-5px;width:220px}
+.share_help h3, .share_partners h3{padding:20px 0 5px;border-bottom:1px solid #d8dfea;font-size:12px;font-weight:bold;clear:both}
+.share_partners h3{font-size:13px;padding:10px 0 5px}
+.share_partners h4{margin:0;padding:10px 0 3px 2px;font-size:12px;color:#444;border-bottom:1px solid #d8dfea}
+.share_partners .sample_button{padding:10px 0}
+.share_partners .button_preview{float:left;padding:3px 0 0 5px}
+.share_partners .code_block{float:right;width:510px;padding:2px 3px 3px;font-size:11px;background:#f7f7f7;margin-right:7px;border:1px solid #ccc;color:#555}
+.share_partners h5{margin:10px 0 5px;color:#666}
+.share_partners .advanced_code_block{margin-bottom:10px;padding:6px 10px;border:1px solid #dedede;background:#f7f7f7}
+a.share_button_browser_link:hover{text-decoration:none}
+.share_button_browser div{background-repeat:no-repeat;text-align:center;white-space:nowrap}
+.share_button_browser div div{background-position:top right}
+.share_button_browser div div div{background-position:bottom right}
+.share_button_browser div div div div{background-position:bottom left;padding:1px 3px}
+.share_button_safari_mac div,
+.share_button_safari_win div{background-image:url(/rsrc.php/z6IQK/hash/804e16ek.png);color:#fff;font-weight:bold;text-shadow:.1em .1em .2em black
+}
+.share_button_ff_mac div{background-image:url(/rsrc.php/zCWKD/hash/58b7wd8d.png);color:#fff;font-weight:bold}
+.share_button_ie_win div{background-image:url(/rsrc.php/zBHA7/hash/83vornc3.gif);height:1%}
+.share_button_ff_win div{background-image:url(/rsrc.php/z4OZI/hash/big8q7bm.png)}
+.share_button_ie_win div div div div,
+.share_button_ff_win div div div div{color:#000;padding:5px 23px 6px;text-align:left}
+.share_button_ff_linux div div div div{background:#eee;border:1px solid #b0b0b0;border-top:1px solid white;border-left:1px solid white;color:#000;padding:4px}
+.share_button_ff_linux div div div{border:1px solid black;border-top:0;border-left:0}
+.pop_dialog .share_composer{margin:-10px}
+.share_composer .share_header{padding-top:12px}
+.share_composer .share_methods{border-bottom:1px solid #ddd;padding:10px 0;text-align:center}
+.share_composer .share_methods label{color:#000;font-weight:normal;margin-right:5px}
+.share_composer .share_composer_post_prompt{display:inline-block;font-size:13px;margin-top:-2px}
+.share_composer .composer_fields dd{width:362px}
+.share_composer div.tokenizer{width:352px}
+.share_composer .attachment_stage{background-color:#fff;border:1px solid #bbb;border-top-color:#aeaeae;width:360px}
+.share_composer .attachment_stage_area{border-top:1px solid #e8e8e8}
+.share_composer .composer_field_border{border:1px solid #bbb;border-top-color:#aeaeae}
+.share_composer .composer_field_border .composer_field_inner_shadow{border:none;border-top:1px solid #e8e8e8}
+.share_composer .composer_fields .field .composer_field_border input.inputtext,
+.share_composer .composer_fields .field .composer_field_border textarea,
+.share_composer .composer_fields .field .composer_field_border div.tokenizer{border:none}
+.share_composer .composer_fields textarea{height:50px}
+.share_composer .composer_fields dt{width:65px}
+.share_composer .share_post .composer_fields dt{width:45px}
+.share_composer .share_send,
+.share_composer .share_wall,
+.share_composer .share_post{background:#f7f7f7;padding-top:15px}
+.share_composer.share_status_wall .share_send,
+.share_composer.share_status_wall .share_post,
+.share_composer.share_status_send .share_post,
+.share_composer.share_status_send .share_wall,
+.share_composer.share_status_post .share_send,
+.share_composer.share_status_post .share_wall{display:none}
+.share_composer .share_buttons{margin:auto;padding-top:0!important;padding-top:10px;padding-bottom:10px;text-align:center}
+.share_composer .dialog_content .share_message .status{margin:10px 10px 10px 10px}
+.pop_dialog .share_message{padding:10px}
+.share_composer .share_status{padding:0 10px 10px}
+.sharer .share_status{background:#f7f7f7}
+.pop_dialog .status{margin:10px}
+.pop_dialog .status h2{background:#fff9d7;border:none;color:#000;font-size:11px}
+body.sharer_popup{overflow:hidden}
+#booklet .share_message .status{margin-top:140px}
+#booklet .status h2{font-size:13px}
+#booklet .share_pop_dialog .dialog_content{height:398px;overflow:hidden}
+#booklet .share_send,
+#booklet .share_post{height:326px;overflow:auto}
+.share_composer .composer_fields{margin:auto;width:463px}
+#booklet .share_buttons{background:#f0f0f0;height:35px;line-height:30px;vertical-align:middle;padding:0;left:1px;position:absolute;bottom:0;width:100%;border-top:1px solid #aaa}
+#booklet .share_buttons input{margin-top:3px;vertical-align:middle}
+.sharer #content{padding:0}
+.sharer .share_buttons{padding-bottom:8px;width:auto}
+.attachment_caption{color:#303030;font-size:9px;padding:3px 0}
+.attachment_caption .caption{float:left}
+.attachment_caption .remove{float:right;font-weight:bold}
+.attachment_stage h2{margin-left:0}
+.attachment_stage_area{padding:8px 3px 7px 8px;overflow:hidden}
+.share_attachment_loading{background:url(/rsrc.php/zBS5C/hash/7hwy7at6.gif) center no-repeat;padding:15px}
+.external_stage{padding:0}
+.external_stage .url{color:#4f4f4f;display:block;font-size:9px;padding-top:3px}
+.external_stage .thumbnail_dont_use .selector,
+.external_stage .thumbnail_dont_use .thumbnail{display:none}
+.external_stage .thumbnail_viewer.loading{background:url(/rsrc.php/zBS5C/hash/7hwy7at6.gif) center no-repeat;padding-top:15px;width:100px}
+.external_stage .thumbnail_viewer label{padding:0}
+.external_stage .thumbnail_viewer .selector{width:100px}
+.external_stage .thumbnail_viewer{float:left;width:auto;margin-right:0;overflow:hidden}
+.external_stage .thumbnail_viewer h4{width:100px;font-weight:normal;font-size:9px;margin:2px 0 6px}
+.external_stage .thumbnail_stage h3{color:#7f7f7f;font-size:11px;padding-bottom:3px}
+.external_stage .thumbnail_stage .thumbnail_unselected{position:absolute;left:-10000px;top:-10000px;width:100px}
+.external_stage .thumbnail_stage .thumbnail{padding-bottom:2px}
+.external_stage .thumbnail_stage .arrows{float:left;margin:0 6px 5px 0}
+.external_stage .thumbnail_stage .arrows a:hover{text-decoration:none}
+.external_stage .thumbnail_stage .arrows .disabled{cursor:default}
+.external_stage .thumbnail_stage .arrow{background-image:url(/rsrc.php/z5AIH/hash/9277mddz.gif);background-repeat:no-repeat;display:block;float:left;height:21px;width:27px}
+.external_stage .thumbnail_stage .arrows .left{width:28px}
+.external_stage .thumbnail_stage .arrows .left .enabled{background-position:-28px 0}
+.external_stage .thumbnail_stage .arrows .left .active{background-position:left top}
+.external_stage .thumbnail_stage .arrows .left .disabled{background-position:-56px 0}
+.external_stage .thumbnail_stage .arrows .right .enabled{background-position:-111px 0}
+.external_stage .thumbnail_stage .arrows .right .active{background-position:-138px 0}
+.external_stage .thumbnail_stage .arrows .right .disabled{background-position:-84px 0}
+.external_stage .thumbnail_stage .counter{float:left;line-height:20px;vertical-align:middle;font-size:9px}
+.summary_wrap{float:right;width:325px;margin-right:5px}
+.attachment_stage .has_image .summary_wrap{width:225px}
+.share_media .external_stage h3{margin-bottom:5px;color:#333}
+.share_media .inputtext{width:215px}
+html .share_media textarea{height:75px}
+a.inline_edit{color:#000;display:block}
+a.inline_edit:hover{background:#ff9;text-decoration:none;width:auto}
+.popup_url_form{padding:150px 20px;text-align:center}
+.popup_url_form .sharer_form{padding:10px}
+.popup_url_form .inputtext{width:250px}
+#share_fatal_error{padding:10px}
+.share_composer .no_friends_message{padding:40px 80px}
+.share_composer .no_friends_message h3.no_friends_header{border:0;font-size:13px;font-weight:bold;margin:0;text-align:center}
+.share_composer .no_friends_message p.no_friends_detail{color:#111;font-size:11px;line-height:14px;margin:5px 0;text-align:center}
+.composer_fields dd.share_stage{width:355px}
+.inbox #compose_message .share_stage #error{margin:0}
+
+#bootloader_css_18ld4obimfvo4k4w_pkg_css { height: 42px; }

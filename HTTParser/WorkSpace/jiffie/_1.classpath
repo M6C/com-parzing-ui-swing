@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jacob.jar" sourcepath="C:/java/jacob_1.11.1/src"/>
+	<classpathentry kind="lib" path="junit.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jaxen-1.1.1.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

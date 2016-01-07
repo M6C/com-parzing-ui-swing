@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<project>
+  <pomVersion>3</pomVersion>
+  <name>Jiffie</name>
+  <id>Jiffie</id>
+  <organization>
+    <name>Packwood Software Limited</name>
+    <url>http://jiffie.sf.net/</url>
+    <logo/>
+  </organization>
+  <inceptionYear>2004</inceptionYear>
+  <package>net.sf.jiffie</package>
+  <logo></logo>
+  <shortDescription>Java InterFace For Internet Explorer</shortDescription>
+
+  <description/>
+
+  <url>http://jiffie.sourceforge.net/</url>
+  <issueTrackingUrl>http://sourceforge.net/tracker/?group_id=107338&amp;atid=647385</issueTrackingUrl>
+  <siteAddress/>
+  <siteDirectory/>
+  <distributionDirectory/>
+
+  <repository>
+    <connection>
+      scm:cvs:pserver:anonymous@jiffie.cvs.sf.net:/cvsroot/jiffie:.
+    </connection>
+    <url>
+      http://jiffie.cvs.sourceforge.net/jiffie/
+    </url>
+  </repository>
+
+
+  <mailingLists>
+    <mailingList>
+      <name>Jiffie Developers List</name>
+      <subscribe>http://lists.sourceforge.net/lists/listinfo/jiffie-developers</subscribe>
+      <unsubscribe>http://lists.sourceforge.net/lists/listinfo/jiffie-developers</unsubscribe>
+      <archive>http://sourceforge.net/mailarchive/forum.php?forum=jiffie-developers</archive>
+    </mailingList>    
+  </mailingLists>
+
+  <developers>
+    <developer>
+      <name>Jon Iles</name>
+      <id>joniles</id>
+      <email>jon.iles@bcs.org.uk</email>
+      <organization>Packwood Software Limited</organization>
+    </developer>    
+  </developers>
+
+  <contributors>
+   <contributor>
+      <name>Tim Langford</name>
+    </contributor>
+   <contributor>
+      <name>Darius Cooper</name>
+    </contributor>
+   <contributor>
+      <name>Piran Montford</name>
+    </contributor>
+   <contributor>
+      <name>Mark Richter</name>
+    </contributor>
+   <contributor>
+      <name>Justin Law</name>
+    </contributor>
+   <contributor>
+      <name>Brian Wong</name>
+    </contributor>
+   <contributor>
+      <name>Matthias Marschall</name>
+    </contributor>
+   <contributor>
+      <name>David Carr</name>
+    </contributor>
+   <contributor>
+      <name>Joe Ferner</name>
+    </contributor>
+  </contributors>
+    
+  <dependencies>
+	<dependency>
+            <groupId>jacob</groupId>
+            <artifactId>jacob</artifactId>
+            <version>jiffie-jacob</version>
+            <jar>jacob.jar</jar>
+            <type>jar</type>
+            <url/>
+            <properties/>
+        </dependency>    
+  </dependencies>
+
+
+  <build>
+      <sourceDirectory>src</sourceDirectory>
+  </build>
+
+  <reports>
+    <report>maven-changes-plugin</report>
+    <report>maven-statcvs-plugin</report>
+    <report>maven-javadoc-plugin</report>
+    <report>maven-faq-plugin</report>
+  </reports>
+
+</project>

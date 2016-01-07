@@ -1,0 +1,1372 @@
+<?xml version="1.0"?>
+<body>
+<DATA id="1"><Numero_Tirage>2009 019</Numero_Tirage>
+<Date_Tirage>08/05/2009</Date_Tirage>
+<Tirage>04 23 24 29 31</Tirage>
+<Complementaire>8 9</Complementaire>
+</DATA>
+<DATA id="2"><Numero_Tirage>2009 018</Numero_Tirage>
+<Date_Tirage>01/05/2009</Date_Tirage>
+<Tirage>05 19 31 38 47</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="3"><Numero_Tirage>2009 017</Numero_Tirage>
+<Date_Tirage>24/04/2009</Date_Tirage>
+<Tirage>04 14 21 24 41</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="4"><Numero_Tirage>2009 016</Numero_Tirage>
+<Date_Tirage>17/04/2009</Date_Tirage>
+<Tirage>04 07 21 44 47</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="5"><Numero_Tirage>2009 015</Numero_Tirage>
+<Date_Tirage>10/04/2009</Date_Tirage>
+<Tirage>09 14 16 37 46</Tirage>
+<Complementaire>2 4</Complementaire>
+</DATA>
+<DATA id="6"><Numero_Tirage>2009 014</Numero_Tirage>
+<Date_Tirage>03/04/2009</Date_Tirage>
+<Tirage>02 20 24 32 46</Tirage>
+<Complementaire>1 9</Complementaire>
+</DATA>
+<DATA id="7"><Numero_Tirage>2009 013</Numero_Tirage>
+<Date_Tirage>27/03/2009</Date_Tirage>
+<Tirage>25 33 36 38 42</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="8"><Numero_Tirage>2009 012</Numero_Tirage>
+<Date_Tirage>20/03/2009</Date_Tirage>
+<Tirage>12 16 23 31 35</Tirage>
+<Complementaire>4 6</Complementaire>
+</DATA>
+<DATA id="9"><Numero_Tirage>2009 011</Numero_Tirage>
+<Date_Tirage>13/03/2009</Date_Tirage>
+<Tirage>12 24 26 36 42</Tirage>
+<Complementaire>1 4</Complementaire>
+</DATA>
+<DATA id="10"><Numero_Tirage>2009 010</Numero_Tirage>
+<Date_Tirage>06/03/2009</Date_Tirage>
+<Tirage>13 17 19 25 35</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="11"><Numero_Tirage>2009 009</Numero_Tirage>
+<Date_Tirage>27/02/2009</Date_Tirage>
+<Tirage>05 09 37 44 45</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="12"><Numero_Tirage>2009 008</Numero_Tirage>
+<Date_Tirage>20/02/2009</Date_Tirage>
+<Tirage>09 12 13 14 48</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="13"><Numero_Tirage>2009 007</Numero_Tirage>
+<Date_Tirage>13/02/2009</Date_Tirage>
+<Tirage>22 33 36 40 42</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="14"><Numero_Tirage>2009 006</Numero_Tirage>
+<Date_Tirage>06/02/2009</Date_Tirage>
+<Tirage>10 20 30 36 40</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="15"><Numero_Tirage>2009 005</Numero_Tirage>
+<Date_Tirage>30/01/2009</Date_Tirage>
+<Tirage>04 29 34 35 46</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="16"><Numero_Tirage>2009 004</Numero_Tirage>
+<Date_Tirage>23/01/2009</Date_Tirage>
+<Tirage>32 33 36 40 49</Tirage>
+<Complementaire>2 8</Complementaire>
+</DATA>
+<DATA id="17"><Numero_Tirage>2009 003</Numero_Tirage>
+<Date_Tirage>16/01/2009</Date_Tirage>
+<Tirage>03 17 22 49 50</Tirage>
+<Complementaire>3 6</Complementaire>
+</DATA>
+<DATA id="18"><Numero_Tirage>2009 002</Numero_Tirage>
+<Date_Tirage>09/01/2009</Date_Tirage>
+<Tirage>07 15 22 28 48</Tirage>
+<Complementaire>1 4</Complementaire>
+</DATA>
+<DATA id="19"><Numero_Tirage>2009 001</Numero_Tirage>
+<Date_Tirage>02/01/2009</Date_Tirage>
+<Tirage>29 30 36 37 48</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="20"><Numero_Tirage>2008 052</Numero_Tirage>
+<Date_Tirage>26/12/2008</Date_Tirage>
+<Tirage>01 02 26 44 50</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="21"><Numero_Tirage>2008 051</Numero_Tirage>
+<Date_Tirage>19/12/2008</Date_Tirage>
+<Tirage>28 29 40 46 50</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="22"><Numero_Tirage>2008 050</Numero_Tirage>
+<Date_Tirage>12/12/2008</Date_Tirage>
+<Tirage>02 19 28 42 49</Tirage>
+<Complementaire>2 7</Complementaire>
+</DATA>
+<DATA id="23"><Numero_Tirage>2008 049</Numero_Tirage>
+<Date_Tirage>05/12/2008</Date_Tirage>
+<Tirage>04 08 21 35 45</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="24"><Numero_Tirage>2008 048</Numero_Tirage>
+<Date_Tirage>28/11/2008</Date_Tirage>
+<Tirage>08 11 16 25 41</Tirage>
+<Complementaire>2 4</Complementaire>
+</DATA>
+<DATA id="25"><Numero_Tirage>2008 047</Numero_Tirage>
+<Date_Tirage>21/11/2008</Date_Tirage>
+<Tirage>09 14 21 49 50</Tirage>
+<Complementaire>3 8</Complementaire>
+</DATA>
+<DATA id="26"><Numero_Tirage>2008 046</Numero_Tirage>
+<Date_Tirage>14/11/2008</Date_Tirage>
+<Tirage>08 10 14 21 26</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="27"><Numero_Tirage>2008 045</Numero_Tirage>
+<Date_Tirage>07/11/2008</Date_Tirage>
+<Tirage>01 09 12 17 18</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="28"><Numero_Tirage>2008 044</Numero_Tirage>
+<Date_Tirage>31/10/2008</Date_Tirage>
+<Tirage>03 18 25 34 41</Tirage>
+<Complementaire>2 5</Complementaire>
+</DATA>
+<DATA id="29"><Numero_Tirage>2008 043</Numero_Tirage>
+<Date_Tirage>24/10/2008</Date_Tirage>
+<Tirage>07 15 16 17 45</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="30"><Numero_Tirage>2008 042</Numero_Tirage>
+<Date_Tirage>17/10/2008</Date_Tirage>
+<Tirage>03 10 12 42 50</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="31"><Numero_Tirage>2008 041</Numero_Tirage>
+<Date_Tirage>10/10/2008</Date_Tirage>
+<Tirage>04 15 22 31 41</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="32"><Numero_Tirage>2008 040</Numero_Tirage>
+<Date_Tirage>03/10/2008</Date_Tirage>
+<Tirage>04 13 19 23 38</Tirage>
+<Complementaire>2 3</Complementaire>
+</DATA>
+<DATA id="33"><Numero_Tirage>2008 039</Numero_Tirage>
+<Date_Tirage>26/09/2008</Date_Tirage>
+<Tirage>14 29 31 33 37</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="34"><Numero_Tirage>2008 038</Numero_Tirage>
+<Date_Tirage>19/09/2008</Date_Tirage>
+<Tirage>14 16 19 20 31</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="35"><Numero_Tirage>2008 037</Numero_Tirage>
+<Date_Tirage>12/09/2008</Date_Tirage>
+<Tirage>19 23 33 37 50</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="36"><Numero_Tirage>2008 036</Numero_Tirage>
+<Date_Tirage>05/09/2008</Date_Tirage>
+<Tirage>07 12 16 17 39</Tirage>
+<Complementaire>3 8</Complementaire>
+</DATA>
+<DATA id="37"><Numero_Tirage>2008 035</Numero_Tirage>
+<Date_Tirage>29/08/2008</Date_Tirage>
+<Tirage>02 20 25 37 39</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="38"><Numero_Tirage>2008 034</Numero_Tirage>
+<Date_Tirage>22/08/2008</Date_Tirage>
+<Tirage>07 27 29 39 50</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="39"><Numero_Tirage>2008 033</Numero_Tirage>
+<Date_Tirage>15/08/2008</Date_Tirage>
+<Tirage>11 17 18 26 31</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="40"><Numero_Tirage>2008 032</Numero_Tirage>
+<Date_Tirage>08/08/2008</Date_Tirage>
+<Tirage>04 05 15 16 45</Tirage>
+<Complementaire>4 7</Complementaire>
+</DATA>
+<DATA id="41"><Numero_Tirage>2008 031</Numero_Tirage>
+<Date_Tirage>01/08/2008</Date_Tirage>
+<Tirage>01 22 25 40 50</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="42"><Numero_Tirage>2008 030</Numero_Tirage>
+<Date_Tirage>25/07/2008</Date_Tirage>
+<Tirage>07 11 15 24 29</Tirage>
+<Complementaire>2 7</Complementaire>
+</DATA>
+<DATA id="43"><Numero_Tirage>2008 029</Numero_Tirage>
+<Date_Tirage>18/07/2008</Date_Tirage>
+<Tirage>10 14 16 29 44</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="44"><Numero_Tirage>2008 028</Numero_Tirage>
+<Date_Tirage>11/07/2008</Date_Tirage>
+<Tirage>09 11 13 19 37</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="45"><Numero_Tirage>2008 027</Numero_Tirage>
+<Date_Tirage>04/07/2008</Date_Tirage>
+<Tirage>07 19 22 27 48</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="46"><Numero_Tirage>2008 026</Numero_Tirage>
+<Date_Tirage>27/06/2008</Date_Tirage>
+<Tirage>05 20 26 44 50</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="47"><Numero_Tirage>2008 025</Numero_Tirage>
+<Date_Tirage>20/06/2008</Date_Tirage>
+<Tirage>08 11 36 37 45</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="48"><Numero_Tirage>2008 024</Numero_Tirage>
+<Date_Tirage>13/06/2008</Date_Tirage>
+<Tirage>13 16 37 44 50</Tirage>
+<Complementaire>1 9</Complementaire>
+</DATA>
+<DATA id="49"><Numero_Tirage>2008 023</Numero_Tirage>
+<Date_Tirage>06/06/2008</Date_Tirage>
+<Tirage>07 19 21 40 50</Tirage>
+<Complementaire>2 9</Complementaire>
+</DATA>
+<DATA id="50"><Numero_Tirage>2008 022</Numero_Tirage>
+<Date_Tirage>30/05/2008</Date_Tirage>
+<Tirage>05 07 14 20 49</Tirage>
+<Complementaire>2 8</Complementaire>
+</DATA>
+<DATA id="51"><Numero_Tirage>2008 021</Numero_Tirage>
+<Date_Tirage>23/05/2008</Date_Tirage>
+<Tirage>05 09 19 21 38</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="52"><Numero_Tirage>2008 020</Numero_Tirage>
+<Date_Tirage>16/05/2008</Date_Tirage>
+<Tirage>06 09 15 25 38</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="53"><Numero_Tirage>2008 019</Numero_Tirage>
+<Date_Tirage>09/05/2008</Date_Tirage>
+<Tirage>08 09 40 42 45</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="54"><Numero_Tirage>2008 018</Numero_Tirage>
+<Date_Tirage>02/05/2008</Date_Tirage>
+<Tirage>02 26 37 45 48</Tirage>
+<Complementaire>4 8</Complementaire>
+</DATA>
+<DATA id="55"><Numero_Tirage>2008 017</Numero_Tirage>
+<Date_Tirage>25/04/2008</Date_Tirage>
+<Tirage>04 19 26 27 30</Tirage>
+<Complementaire>3 8</Complementaire>
+</DATA>
+<DATA id="56"><Numero_Tirage>2008 016</Numero_Tirage>
+<Date_Tirage>18/04/2008</Date_Tirage>
+<Tirage>03 06 07 27 50</Tirage>
+<Complementaire>5 9</Complementaire>
+</DATA>
+<DATA id="57"><Numero_Tirage>2008 015</Numero_Tirage>
+<Date_Tirage>11/04/2008</Date_Tirage>
+<Tirage>06 25 30 45 50</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="58"><Numero_Tirage>2008 014</Numero_Tirage>
+<Date_Tirage>04/04/2008</Date_Tirage>
+<Tirage>11 13 18 37 47</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="59"><Numero_Tirage>2008 013</Numero_Tirage>
+<Date_Tirage>28/03/2008</Date_Tirage>
+<Tirage>05 09 17 29 39</Tirage>
+<Complementaire>3 6</Complementaire>
+</DATA>
+<DATA id="60"><Numero_Tirage>2008 012</Numero_Tirage>
+<Date_Tirage>21/03/2008</Date_Tirage>
+<Tirage>02 10 18 22 36</Tirage>
+<Complementaire>4 6</Complementaire>
+</DATA>
+<DATA id="61"><Numero_Tirage>2008 011</Numero_Tirage>
+<Date_Tirage>14/03/2008</Date_Tirage>
+<Tirage>13 21 25 35 48</Tirage>
+<Complementaire>4 8</Complementaire>
+</DATA>
+<DATA id="62"><Numero_Tirage>2008 010</Numero_Tirage>
+<Date_Tirage>07/03/2008</Date_Tirage>
+<Tirage>02 07 14 17 35</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="63"><Numero_Tirage>2008 009</Numero_Tirage>
+<Date_Tirage>29/02/2008</Date_Tirage>
+<Tirage>12 37 40 47 49</Tirage>
+<Complementaire>2 9</Complementaire>
+</DATA>
+<DATA id="64"><Numero_Tirage>2008 008</Numero_Tirage>
+<Date_Tirage>22/02/2008</Date_Tirage>
+<Tirage>04 27 32 46 50</Tirage>
+<Complementaire>8 9</Complementaire>
+</DATA>
+<DATA id="65"><Numero_Tirage>2008 007</Numero_Tirage>
+<Date_Tirage>15/02/2008</Date_Tirage>
+<Tirage>12 27 29 45 46</Tirage>
+<Complementaire>4 7</Complementaire>
+</DATA>
+<DATA id="66"><Numero_Tirage>2008 006</Numero_Tirage>
+<Date_Tirage>08/02/2008</Date_Tirage>
+<Tirage>17 28 30 38 44</Tirage>
+<Complementaire>1 4</Complementaire>
+</DATA>
+<DATA id="67"><Numero_Tirage>2008 005</Numero_Tirage>
+<Date_Tirage>01/02/2008</Date_Tirage>
+<Tirage>22 30 45 47 49</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="68"><Numero_Tirage>2008 004</Numero_Tirage>
+<Date_Tirage>25/01/2008</Date_Tirage>
+<Tirage>02 06 09 19 45</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="69"><Numero_Tirage>2008 003</Numero_Tirage>
+<Date_Tirage>18/01/2008</Date_Tirage>
+<Tirage>14 16 23 40 46</Tirage>
+<Complementaire>4 8</Complementaire>
+</DATA>
+<DATA id="70"><Numero_Tirage>2008 002</Numero_Tirage>
+<Date_Tirage>11/01/2008</Date_Tirage>
+<Tirage>08 24 36 49 50</Tirage>
+<Complementaire>4 8</Complementaire>
+</DATA>
+<DATA id="71"><Numero_Tirage>2008 001</Numero_Tirage>
+<Date_Tirage>04/01/2008</Date_Tirage>
+<Tirage>10 12 24 25 41</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="72"><Numero_Tirage>2007 051</Numero_Tirage>
+<Date_Tirage>28/12/2007</Date_Tirage>
+<Tirage>20 21 22 31 45</Tirage>
+<Complementaire>7 9</Complementaire>
+</DATA>
+<DATA id="73"><Numero_Tirage>2007 050</Numero_Tirage>
+<Date_Tirage>21/12/2007</Date_Tirage>
+<Tirage>07 09 28 37 44</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="74"><Numero_Tirage>2007 049</Numero_Tirage>
+<Date_Tirage>14/12/2007</Date_Tirage>
+<Tirage>08 25 30 36 44</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="75"><Numero_Tirage>2007 048</Numero_Tirage>
+<Date_Tirage>07/12/2007</Date_Tirage>
+<Tirage>02 04 32 43 48</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="76"><Numero_Tirage>2007 048</Numero_Tirage>
+<Date_Tirage>30/11/2007</Date_Tirage>
+<Tirage>12 19 20 30 38</Tirage>
+<Complementaire>7 9</Complementaire>
+</DATA>
+<DATA id="77"><Numero_Tirage>2007 047</Numero_Tirage>
+<Date_Tirage>23/11/2007</Date_Tirage>
+<Tirage>02 10 22 29 48</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="78"><Numero_Tirage>2007 046</Numero_Tirage>
+<Date_Tirage>16/11/2007</Date_Tirage>
+<Tirage>09 18 23 33 37</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="79"><Numero_Tirage>2007 045</Numero_Tirage>
+<Date_Tirage>09/11/2007</Date_Tirage>
+<Tirage>05 14 22 25 36</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="80"><Numero_Tirage>2007 044</Numero_Tirage>
+<Date_Tirage>02/11/2007</Date_Tirage>
+<Tirage>03 16 18 19 40</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="81"><Numero_Tirage>2007 043</Numero_Tirage>
+<Date_Tirage>26/10/2007</Date_Tirage>
+<Tirage>07 20 38 40 43</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="82"><Numero_Tirage>2007 042</Numero_Tirage>
+<Date_Tirage>19/10/2007</Date_Tirage>
+<Tirage>07 18 34 35 40</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="83"><Numero_Tirage>2007 041</Numero_Tirage>
+<Date_Tirage>12/10/2007</Date_Tirage>
+<Tirage>21 32 36 46 47</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="84"><Numero_Tirage>2007 040</Numero_Tirage>
+<Date_Tirage>05/10/2007</Date_Tirage>
+<Tirage>11 20 27 35 44</Tirage>
+<Complementaire>2 5</Complementaire>
+</DATA>
+<DATA id="85"><Numero_Tirage>2007 039</Numero_Tirage>
+<Date_Tirage>28/09/2007</Date_Tirage>
+<Tirage>22 30 34 35 44</Tirage>
+<Complementaire>4 5</Complementaire>
+</DATA>
+<DATA id="86"><Numero_Tirage>2007 038</Numero_Tirage>
+<Date_Tirage>21/09/2007</Date_Tirage>
+<Tirage>01 17 32 35 37</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="87"><Numero_Tirage>2007 037</Numero_Tirage>
+<Date_Tirage>14/09/2007</Date_Tirage>
+<Tirage>05 09 11 29 33</Tirage>
+<Complementaire>7 9</Complementaire>
+</DATA>
+<DATA id="88"><Numero_Tirage>2007 036</Numero_Tirage>
+<Date_Tirage>07/09/2007</Date_Tirage>
+<Tirage>02 03 33 34 42</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="89"><Numero_Tirage>2007 035</Numero_Tirage>
+<Date_Tirage>31/08/2007</Date_Tirage>
+<Tirage>06 18 22 23 37</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="90"><Numero_Tirage>2007 034</Numero_Tirage>
+<Date_Tirage>24/08/2007</Date_Tirage>
+<Tirage>01 03 16 42 48</Tirage>
+<Complementaire>2 3</Complementaire>
+</DATA>
+<DATA id="91"><Numero_Tirage>2007 033</Numero_Tirage>
+<Date_Tirage>17/08/2007</Date_Tirage>
+<Tirage>02 03 13 38 42</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="92"><Numero_Tirage>2007 032</Numero_Tirage>
+<Date_Tirage>10/08/2007</Date_Tirage>
+<Tirage>23 40 42 43 49</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="93"><Numero_Tirage>2007 031</Numero_Tirage>
+<Date_Tirage>03/08/2007</Date_Tirage>
+<Tirage>10 30 33 37 41</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="94"><Numero_Tirage>2007 030</Numero_Tirage>
+<Date_Tirage>27/07/2007</Date_Tirage>
+<Tirage>01 04 21 29 41</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="95"><Numero_Tirage>2007 029</Numero_Tirage>
+<Date_Tirage>20/07/2007</Date_Tirage>
+<Tirage>10 21 25 26 50</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="96"><Numero_Tirage>2007 028</Numero_Tirage>
+<Date_Tirage>13/07/2007</Date_Tirage>
+<Tirage>09 13 15 31 48</Tirage>
+<Complementaire>3 6</Complementaire>
+</DATA>
+<DATA id="97"><Numero_Tirage>2007 027</Numero_Tirage>
+<Date_Tirage>06/07/2007</Date_Tirage>
+<Tirage>04 05 19 39 41</Tirage>
+<Complementaire>8 9</Complementaire>
+</DATA>
+<DATA id="98"><Numero_Tirage>2007 026</Numero_Tirage>
+<Date_Tirage>29/06/2007</Date_Tirage>
+<Tirage>08 12 28 33 45</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="99"><Numero_Tirage>2007 025</Numero_Tirage>
+<Date_Tirage>22/06/2007</Date_Tirage>
+<Tirage>11 16 17 22 34</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="100"><Numero_Tirage>2007 024</Numero_Tirage>
+<Date_Tirage>15/06/2007</Date_Tirage>
+<Tirage>05 07 14 21 40</Tirage>
+<Complementaire>3 8</Complementaire>
+</DATA>
+<DATA id="101"><Numero_Tirage>2007 023</Numero_Tirage>
+<Date_Tirage>08/06/2007</Date_Tirage>
+<Tirage>01 15 17 25 45</Tirage>
+<Complementaire>2 8</Complementaire>
+</DATA>
+<DATA id="102"><Numero_Tirage>2007 022</Numero_Tirage>
+<Date_Tirage>01/06/2007</Date_Tirage>
+<Tirage>06 22 37 41 42</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="103"><Numero_Tirage>2007 021</Numero_Tirage>
+<Date_Tirage>25/05/2007</Date_Tirage>
+<Tirage>25 26 29 49 50</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="104"><Numero_Tirage>2007 020</Numero_Tirage>
+<Date_Tirage>18/05/2007</Date_Tirage>
+<Tirage>26 34 37 39 49</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="105"><Numero_Tirage>2007 019</Numero_Tirage>
+<Date_Tirage>11/05/2007</Date_Tirage>
+<Tirage>07 12 26 29 49</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="106"><Numero_Tirage>2007 018</Numero_Tirage>
+<Date_Tirage>04/05/2007</Date_Tirage>
+<Tirage>06 17 35 41 45</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="107"><Numero_Tirage>2007 017</Numero_Tirage>
+<Date_Tirage>27/04/2007</Date_Tirage>
+<Tirage>07 18 27 36 44</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="108"><Numero_Tirage>2007 016</Numero_Tirage>
+<Date_Tirage>20/04/2007</Date_Tirage>
+<Tirage>23 26 32 41 45</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="109"><Numero_Tirage>2007 015</Numero_Tirage>
+<Date_Tirage>13/04/2007</Date_Tirage>
+<Tirage>07 20 25 38 41</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="110"><Numero_Tirage>2007 014</Numero_Tirage>
+<Date_Tirage>06/04/2007</Date_Tirage>
+<Tirage>15 23 29 41 48</Tirage>
+<Complementaire>3 6</Complementaire>
+</DATA>
+<DATA id="111"><Numero_Tirage>2007 013</Numero_Tirage>
+<Date_Tirage>30/03/2007</Date_Tirage>
+<Tirage>09 17 19 41 46</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="112"><Numero_Tirage>2007 012</Numero_Tirage>
+<Date_Tirage>23/03/2007</Date_Tirage>
+<Tirage>05 13 17 40 43</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="113"><Numero_Tirage>2007 011</Numero_Tirage>
+<Date_Tirage>16/03/2007</Date_Tirage>
+<Tirage>04 14 31 45 49</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="114"><Numero_Tirage>2007 010</Numero_Tirage>
+<Date_Tirage>09/03/2007</Date_Tirage>
+<Tirage>02 03 25 43 48</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="115"><Numero_Tirage>2007 009</Numero_Tirage>
+<Date_Tirage>02/03/2007</Date_Tirage>
+<Tirage>03 16 34 38 48</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="116"><Numero_Tirage>2007 008</Numero_Tirage>
+<Date_Tirage>23/02/2007</Date_Tirage>
+<Tirage>02 15 18 20 22</Tirage>
+<Complementaire>2 5</Complementaire>
+</DATA>
+<DATA id="117"><Numero_Tirage>2007 007</Numero_Tirage>
+<Date_Tirage>16/02/2007</Date_Tirage>
+<Tirage>08 19 20 39 50</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="118"><Numero_Tirage>2007 006</Numero_Tirage>
+<Date_Tirage>09/02/2007</Date_Tirage>
+<Tirage>14 16 30 36 46</Tirage>
+<Complementaire>2 8</Complementaire>
+</DATA>
+<DATA id="119"><Numero_Tirage>2007 005</Numero_Tirage>
+<Date_Tirage>02/02/2007</Date_Tirage>
+<Tirage>14 23 27 30 36</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="120"><Numero_Tirage>2007 004</Numero_Tirage>
+<Date_Tirage>26/01/2007</Date_Tirage>
+<Tirage>11 15 23 30 38</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="121"><Numero_Tirage>2007 003</Numero_Tirage>
+<Date_Tirage>19/01/2007</Date_Tirage>
+<Tirage>05 13 27 33 42</Tirage>
+<Complementaire>2 4</Complementaire>
+</DATA>
+<DATA id="122"><Numero_Tirage>2007 002</Numero_Tirage>
+<Date_Tirage>12/01/2007</Date_Tirage>
+<Tirage>08 11 14 19 25</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="123"><Numero_Tirage>2007 001</Numero_Tirage>
+<Date_Tirage>05/01/2007</Date_Tirage>
+<Tirage>17 19 29 36 45</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="124"><Numero_Tirage>2006 052</Numero_Tirage>
+<Date_Tirage>29/12/2006</Date_Tirage>
+<Tirage>06 09 13 14 35</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="125"><Numero_Tirage>2006 051</Numero_Tirage>
+<Date_Tirage>22/12/2006</Date_Tirage>
+<Tirage>09 11 20 38 43</Tirage>
+<Complementaire>2 3</Complementaire>
+</DATA>
+<DATA id="126"><Numero_Tirage>2006 050</Numero_Tirage>
+<Date_Tirage>15/12/2006</Date_Tirage>
+<Tirage>09 23 35 37 42</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="127"><Numero_Tirage>2006 049</Numero_Tirage>
+<Date_Tirage>08/12/2006</Date_Tirage>
+<Tirage>16 17 18 36 47</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="128"><Numero_Tirage>2006 048</Numero_Tirage>
+<Date_Tirage>01/12/2006</Date_Tirage>
+<Tirage>04 08 16 37 41</Tirage>
+<Complementaire>2 5</Complementaire>
+</DATA>
+<DATA id="129"><Numero_Tirage>2006 047</Numero_Tirage>
+<Date_Tirage>24/11/2006</Date_Tirage>
+<Tirage>05 08 17 25 40</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="130"><Numero_Tirage>2006 046</Numero_Tirage>
+<Date_Tirage>17/11/2006</Date_Tirage>
+<Tirage>12 22 32 33 36</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="131"><Numero_Tirage>2006 045</Numero_Tirage>
+<Date_Tirage>10/11/2006</Date_Tirage>
+<Tirage>14 21 27 30 36</Tirage>
+<Complementaire>2 3</Complementaire>
+</DATA>
+<DATA id="132"><Numero_Tirage>2006 044</Numero_Tirage>
+<Date_Tirage>03/11/2006</Date_Tirage>
+<Tirage>11 13 24 44 49</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="133"><Numero_Tirage>2006 043</Numero_Tirage>
+<Date_Tirage>27/10/2006</Date_Tirage>
+<Tirage>03 04 08 44 50</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="134"><Numero_Tirage>2006 042</Numero_Tirage>
+<Date_Tirage>20/10/2006</Date_Tirage>
+<Tirage>10 19 34 45 47</Tirage>
+<Complementaire>3 6</Complementaire>
+</DATA>
+<DATA id="135"><Numero_Tirage>2006 041</Numero_Tirage>
+<Date_Tirage>13/10/2006</Date_Tirage>
+<Tirage>02 25 32 38 41</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="136"><Numero_Tirage>2006 040</Numero_Tirage>
+<Date_Tirage>06/10/2006</Date_Tirage>
+<Tirage>05 11 22 35 38</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="137"><Numero_Tirage>2006 039</Numero_Tirage>
+<Date_Tirage>29/09/2006</Date_Tirage>
+<Tirage>01 03 06 18 24</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="138"><Numero_Tirage>2006 038</Numero_Tirage>
+<Date_Tirage>22/09/2006</Date_Tirage>
+<Tirage>10 29 30 45 49</Tirage>
+<Complementaire>3 8</Complementaire>
+</DATA>
+<DATA id="139"><Numero_Tirage>2006 037</Numero_Tirage>
+<Date_Tirage>15/09/2006</Date_Tirage>
+<Tirage>06 10 16 26 49</Tirage>
+<Complementaire>7 9</Complementaire>
+</DATA>
+<DATA id="140"><Numero_Tirage>2006 036</Numero_Tirage>
+<Date_Tirage>08/09/2006</Date_Tirage>
+<Tirage>01 10 12 32 33</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="141"><Numero_Tirage>2006 035</Numero_Tirage>
+<Date_Tirage>01/09/2006</Date_Tirage>
+<Tirage>03 07 25 45 50</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="142"><Numero_Tirage>2006 034</Numero_Tirage>
+<Date_Tirage>25/08/2006</Date_Tirage>
+<Tirage>10 28 40 47 48</Tirage>
+<Complementaire>6 8</Complementaire>
+</DATA>
+<DATA id="143"><Numero_Tirage>2006 033</Numero_Tirage>
+<Date_Tirage>18/08/2006</Date_Tirage>
+<Tirage>12 37 39 40 50</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="144"><Numero_Tirage>2006 032</Numero_Tirage>
+<Date_Tirage>11/08/2006</Date_Tirage>
+<Tirage>27 28 31 46 47</Tirage>
+<Complementaire>2 5</Complementaire>
+</DATA>
+<DATA id="145"><Numero_Tirage>2006 031</Numero_Tirage>
+<Date_Tirage>04/08/2006</Date_Tirage>
+<Tirage>01 14 15 26 32</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="146"><Numero_Tirage>2006 030</Numero_Tirage>
+<Date_Tirage>28/07/2006</Date_Tirage>
+<Tirage>03 08 12 29 43</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="147"><Numero_Tirage>2006 029</Numero_Tirage>
+<Date_Tirage>21/07/2006</Date_Tirage>
+<Tirage>02 04 09 38 50</Tirage>
+<Complementaire>6 8</Complementaire>
+</DATA>
+<DATA id="148"><Numero_Tirage>2006 028</Numero_Tirage>
+<Date_Tirage>14/07/2006</Date_Tirage>
+<Tirage>01 07 17 31 36</Tirage>
+<Complementaire>2 8</Complementaire>
+</DATA>
+<DATA id="149"><Numero_Tirage>2006 027</Numero_Tirage>
+<Date_Tirage>07/07/2006</Date_Tirage>
+<Tirage>07 09 18 35 43</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="150"><Numero_Tirage>2006 026</Numero_Tirage>
+<Date_Tirage>30/06/2006</Date_Tirage>
+<Tirage>06 15 16 40 43</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="151"><Numero_Tirage>2006 025</Numero_Tirage>
+<Date_Tirage>23/06/2006</Date_Tirage>
+<Tirage>09 21 30 43 44</Tirage>
+<Complementaire>1 9</Complementaire>
+</DATA>
+<DATA id="152"><Numero_Tirage>2006 024</Numero_Tirage>
+<Date_Tirage>16/06/2006</Date_Tirage>
+<Tirage>01 16 26 30 36</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="153"><Numero_Tirage>2006 023</Numero_Tirage>
+<Date_Tirage>09/06/2006</Date_Tirage>
+<Tirage>03 12 15 34 39</Tirage>
+<Complementaire>4 6</Complementaire>
+</DATA>
+<DATA id="154"><Numero_Tirage>2006 022</Numero_Tirage>
+<Date_Tirage>02/06/2006</Date_Tirage>
+<Tirage>07 08 27 41 48</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="155"><Numero_Tirage>2006 021</Numero_Tirage>
+<Date_Tirage>26/05/2006</Date_Tirage>
+<Tirage>02 12 21 41 49</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="156"><Numero_Tirage>2006 020</Numero_Tirage>
+<Date_Tirage>19/05/2006</Date_Tirage>
+<Tirage>03 05 25 34 49</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="157"><Numero_Tirage>2006 019</Numero_Tirage>
+<Date_Tirage>12/05/2006</Date_Tirage>
+<Tirage>05 20 23 34 50</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="158"><Numero_Tirage>2006 018</Numero_Tirage>
+<Date_Tirage>05/05/2006</Date_Tirage>
+<Tirage>04 08 14 16 50</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="159"><Numero_Tirage>2006 017</Numero_Tirage>
+<Date_Tirage>28/04/2006</Date_Tirage>
+<Tirage>05 10 17 22 33</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="160"><Numero_Tirage>2006 016</Numero_Tirage>
+<Date_Tirage>21/04/2006</Date_Tirage>
+<Tirage>01 20 22 37 46</Tirage>
+<Complementaire>1 9</Complementaire>
+</DATA>
+<DATA id="161"><Numero_Tirage>2006 015</Numero_Tirage>
+<Date_Tirage>14/04/2006</Date_Tirage>
+<Tirage>16 26 34 35 49</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="162"><Numero_Tirage>2006 014</Numero_Tirage>
+<Date_Tirage>07/04/2006</Date_Tirage>
+<Tirage>12 13 29 44 50</Tirage>
+<Complementaire>4 5</Complementaire>
+</DATA>
+<DATA id="163"><Numero_Tirage>2006 013</Numero_Tirage>
+<Date_Tirage>31/03/2006</Date_Tirage>
+<Tirage>03 20 31 45 50</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="164"><Numero_Tirage>2006 012</Numero_Tirage>
+<Date_Tirage>24/03/2006</Date_Tirage>
+<Tirage>17 28 33 35 47</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="165"><Numero_Tirage>2006 011</Numero_Tirage>
+<Date_Tirage>17/03/2006</Date_Tirage>
+<Tirage>05 32 44 45 50</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="166"><Numero_Tirage>2006 010</Numero_Tirage>
+<Date_Tirage>10/03/2006</Date_Tirage>
+<Tirage>01 21 33 45 49</Tirage>
+<Complementaire>4 8</Complementaire>
+</DATA>
+<DATA id="167"><Numero_Tirage>2006 009</Numero_Tirage>
+<Date_Tirage>03/03/2006</Date_Tirage>
+<Tirage>03 05 08 10 44</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="168"><Numero_Tirage>2006 008</Numero_Tirage>
+<Date_Tirage>24/02/2006</Date_Tirage>
+<Tirage>01 11 18 19 47</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="169"><Numero_Tirage>2006 007</Numero_Tirage>
+<Date_Tirage>17/02/2006</Date_Tirage>
+<Tirage>04 23 24 26 38</Tirage>
+<Complementaire>2 4</Complementaire>
+</DATA>
+<DATA id="170"><Numero_Tirage>2006 006</Numero_Tirage>
+<Date_Tirage>10/02/2006</Date_Tirage>
+<Tirage>05 06 38 48 50</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="171"><Numero_Tirage>2006 005</Numero_Tirage>
+<Date_Tirage>03/02/2006</Date_Tirage>
+<Tirage>09 21 30 39 50</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="172"><Numero_Tirage>2006 004</Numero_Tirage>
+<Date_Tirage>27/01/2006</Date_Tirage>
+<Tirage>09 15 21 40 49</Tirage>
+<Complementaire>1 4</Complementaire>
+</DATA>
+<DATA id="173"><Numero_Tirage>2006 003</Numero_Tirage>
+<Date_Tirage>20/01/2006</Date_Tirage>
+<Tirage>12 15 33 44 50</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="174"><Numero_Tirage>2006 002</Numero_Tirage>
+<Date_Tirage>13/01/2006</Date_Tirage>
+<Tirage>08 12 19 33 34</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="175"><Numero_Tirage>2006 001</Numero_Tirage>
+<Date_Tirage>06/01/2006</Date_Tirage>
+<Tirage>02 06 09 14 26</Tirage>
+<Complementaire>4 5</Complementaire>
+</DATA>
+<DATA id="176"><Numero_Tirage>2005 052</Numero_Tirage>
+<Date_Tirage>30/12/2005</Date_Tirage>
+<Tirage>08 16 19 43 45</Tirage>
+<Complementaire>1 4</Complementaire>
+</DATA>
+<DATA id="177"><Numero_Tirage>2005 051</Numero_Tirage>
+<Date_Tirage>23/12/2005</Date_Tirage>
+<Tirage>15 31 36 37 42</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="178"><Numero_Tirage>2005 050</Numero_Tirage>
+<Date_Tirage>16/12/2005</Date_Tirage>
+<Tirage>02 03 15 18 32</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="179"><Numero_Tirage>2005 049</Numero_Tirage>
+<Date_Tirage>09/12/2005</Date_Tirage>
+<Tirage>11 18 35 38 42</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="180"><Numero_Tirage>2005 048</Numero_Tirage>
+<Date_Tirage>02/12/2005</Date_Tirage>
+<Tirage>01 09 20 23 30</Tirage>
+<Complementaire>4 7</Complementaire>
+</DATA>
+<DATA id="181"><Numero_Tirage>2005 047</Numero_Tirage>
+<Date_Tirage>25/11/2005</Date_Tirage>
+<Tirage>01 06 27 39 47</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="182"><Numero_Tirage>2005 046</Numero_Tirage>
+<Date_Tirage>18/11/2005</Date_Tirage>
+<Tirage>17 18 25 34 48</Tirage>
+<Complementaire>2 3</Complementaire>
+</DATA>
+<DATA id="183"><Numero_Tirage>2005 045</Numero_Tirage>
+<Date_Tirage>11/11/2005</Date_Tirage>
+<Tirage>15 16 36 41 42</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="184"><Numero_Tirage>2005 044</Numero_Tirage>
+<Date_Tirage>04/11/2005</Date_Tirage>
+<Tirage>26 36 37 38 42</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="185"><Numero_Tirage>2005 043</Numero_Tirage>
+<Date_Tirage>28/10/2005</Date_Tirage>
+<Tirage>14 36 44 47 50</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="186"><Numero_Tirage>2005 042</Numero_Tirage>
+<Date_Tirage>21/10/2005</Date_Tirage>
+<Tirage>01 14 19 29 33</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="187"><Numero_Tirage>2005 041</Numero_Tirage>
+<Date_Tirage>14/10/2005</Date_Tirage>
+<Tirage>10 11 19 20 23</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="188"><Numero_Tirage>2005 040</Numero_Tirage>
+<Date_Tirage>07/10/2005</Date_Tirage>
+<Tirage>02 13 21 26 44</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="189"><Numero_Tirage>2005 039</Numero_Tirage>
+<Date_Tirage>30/09/2005</Date_Tirage>
+<Tirage>06 11 47 48 50</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="190"><Numero_Tirage>2005 038</Numero_Tirage>
+<Date_Tirage>23/09/2005</Date_Tirage>
+<Tirage>01 26 31 34 47</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="191"><Numero_Tirage>2005 037</Numero_Tirage>
+<Date_Tirage>16/09/2005</Date_Tirage>
+<Tirage>12 13 19 21 38</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="192"><Numero_Tirage>2005 036</Numero_Tirage>
+<Date_Tirage>09/09/2005</Date_Tirage>
+<Tirage>08 12 19 31 50</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="193"><Numero_Tirage>2005 035</Numero_Tirage>
+<Date_Tirage>02/09/2005</Date_Tirage>
+<Tirage>03 04 14 43 50</Tirage>
+<Complementaire>3 6</Complementaire>
+</DATA>
+<DATA id="194"><Numero_Tirage>2005 034</Numero_Tirage>
+<Date_Tirage>26/08/2005</Date_Tirage>
+<Tirage>09 29 35 40 41</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="195"><Numero_Tirage>2005 033</Numero_Tirage>
+<Date_Tirage>19/08/2005</Date_Tirage>
+<Tirage>11 24 29 31 41</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="196"><Numero_Tirage>2005 032</Numero_Tirage>
+<Date_Tirage>12/08/2005</Date_Tirage>
+<Tirage>15 23 30 37 40</Tirage>
+<Complementaire>7 9</Complementaire>
+</DATA>
+<DATA id="197"><Numero_Tirage>2005 031</Numero_Tirage>
+<Date_Tirage>05/08/2005</Date_Tirage>
+<Tirage>02 11 21 22 30</Tirage>
+<Complementaire>4 6</Complementaire>
+</DATA>
+<DATA id="198"><Numero_Tirage>2005 030</Numero_Tirage>
+<Date_Tirage>29/07/2005</Date_Tirage>
+<Tirage>03 19 26 49 50</Tirage>
+<Complementaire>4 5</Complementaire>
+</DATA>
+<DATA id="199"><Numero_Tirage>2005 029</Numero_Tirage>
+<Date_Tirage>22/07/2005</Date_Tirage>
+<Tirage>03 14 41 48 49</Tirage>
+<Complementaire>1 4</Complementaire>
+</DATA>
+<DATA id="200"><Numero_Tirage>2005 028</Numero_Tirage>
+<Date_Tirage>15/07/2005</Date_Tirage>
+<Tirage>01 11 12 23 42</Tirage>
+<Complementaire>3 6</Complementaire>
+</DATA>
+<DATA id="201"><Numero_Tirage>2005 027</Numero_Tirage>
+<Date_Tirage>08/07/2005</Date_Tirage>
+<Tirage>35 36 42 46 49</Tirage>
+<Complementaire>2 8</Complementaire>
+</DATA>
+<DATA id="202"><Numero_Tirage>2005 026</Numero_Tirage>
+<Date_Tirage>01/07/2005</Date_Tirage>
+<Tirage>04 05 23 25 28</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="203"><Numero_Tirage>2005 025</Numero_Tirage>
+<Date_Tirage>24/06/2005</Date_Tirage>
+<Tirage>06 08 14 15 45</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="204"><Numero_Tirage>2005 024</Numero_Tirage>
+<Date_Tirage>17/06/2005</Date_Tirage>
+<Tirage>04 08 10 18 21</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="205"><Numero_Tirage>2005 023</Numero_Tirage>
+<Date_Tirage>10/06/2005</Date_Tirage>
+<Tirage>06 07 32 37 47</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="206"><Numero_Tirage>2005 022</Numero_Tirage>
+<Date_Tirage>03/06/2005</Date_Tirage>
+<Tirage>03 08 11 17 50</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="207"><Numero_Tirage>2005 021</Numero_Tirage>
+<Date_Tirage>27/05/2005</Date_Tirage>
+<Tirage>02 24 31 48 50</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="208"><Numero_Tirage>2005 020</Numero_Tirage>
+<Date_Tirage>20/05/2005</Date_Tirage>
+<Tirage>06 07 13 28 47</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="209"><Numero_Tirage>2005 019</Numero_Tirage>
+<Date_Tirage>13/05/2005</Date_Tirage>
+<Tirage>12 17 31 32 40</Tirage>
+<Complementaire>2 9</Complementaire>
+</DATA>
+<DATA id="210"><Numero_Tirage>2005 018</Numero_Tirage>
+<Date_Tirage>06/05/2005</Date_Tirage>
+<Tirage>07 12 21 26 44</Tirage>
+<Complementaire>6 8</Complementaire>
+</DATA>
+<DATA id="211"><Numero_Tirage>2005 017</Numero_Tirage>
+<Date_Tirage>29/04/2005</Date_Tirage>
+<Tirage>03 09 35 39 42</Tirage>
+<Complementaire>1 8</Complementaire>
+</DATA>
+<DATA id="212"><Numero_Tirage>2005 016</Numero_Tirage>
+<Date_Tirage>22/04/2005</Date_Tirage>
+<Tirage>03 10 13 24 47</Tirage>
+<Complementaire>5 9</Complementaire>
+</DATA>
+<DATA id="213"><Numero_Tirage>2005 015</Numero_Tirage>
+<Date_Tirage>15/04/2005</Date_Tirage>
+<Tirage>06 28 31 38 42</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="214"><Numero_Tirage>2005 014</Numero_Tirage>
+<Date_Tirage>08/04/2005</Date_Tirage>
+<Tirage>07 11 25 31 50</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="215"><Numero_Tirage>2005 013</Numero_Tirage>
+<Date_Tirage>01/04/2005</Date_Tirage>
+<Tirage>25 26 41 44 47</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="216"><Numero_Tirage>2005 012</Numero_Tirage>
+<Date_Tirage>25/03/2005</Date_Tirage>
+<Tirage>04 29 33 37 38</Tirage>
+<Complementaire>6 9</Complementaire>
+</DATA>
+<DATA id="217"><Numero_Tirage>2005 011</Numero_Tirage>
+<Date_Tirage>18/03/2005</Date_Tirage>
+<Tirage>06 23 39 43 48</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="218"><Numero_Tirage>2005 010</Numero_Tirage>
+<Date_Tirage>11/03/2005</Date_Tirage>
+<Tirage>08 12 23 40 43</Tirage>
+<Complementaire>1 4</Complementaire>
+</DATA>
+<DATA id="219"><Numero_Tirage>2005 009</Numero_Tirage>
+<Date_Tirage>04/03/2005</Date_Tirage>
+<Tirage>12 24 32 37 39</Tirage>
+<Complementaire>7 9</Complementaire>
+</DATA>
+<DATA id="220"><Numero_Tirage>2005 008</Numero_Tirage>
+<Date_Tirage>25/02/2005</Date_Tirage>
+<Tirage>03 27 30 43 44</Tirage>
+<Complementaire>4 8</Complementaire>
+</DATA>
+<DATA id="221"><Numero_Tirage>2005 007</Numero_Tirage>
+<Date_Tirage>18/02/2005</Date_Tirage>
+<Tirage>20 21 26 32 46</Tirage>
+<Complementaire>8 9</Complementaire>
+</DATA>
+<DATA id="222"><Numero_Tirage>2005 006</Numero_Tirage>
+<Date_Tirage>11/02/2005</Date_Tirage>
+<Tirage>11 13 25 32 50</Tirage>
+<Complementaire>4 7</Complementaire>
+</DATA>
+<DATA id="223"><Numero_Tirage>2005 005</Numero_Tirage>
+<Date_Tirage>04/02/2005</Date_Tirage>
+<Tirage>01 08 11 30 40</Tirage>
+<Complementaire>7 8</Complementaire>
+</DATA>
+<DATA id="224"><Numero_Tirage>2005 004</Numero_Tirage>
+<Date_Tirage>28/01/2005</Date_Tirage>
+<Tirage>07 21 26 43 45</Tirage>
+<Complementaire>5 7</Complementaire>
+</DATA>
+<DATA id="225"><Numero_Tirage>2005 003</Numero_Tirage>
+<Date_Tirage>21/01/2005</Date_Tirage>
+<Tirage>10 12 14 24 26</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="226"><Numero_Tirage>2005 002</Numero_Tirage>
+<Date_Tirage>14/01/2005</Date_Tirage>
+<Tirage>06 11 14 19 29</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="227"><Numero_Tirage>2005 001</Numero_Tirage>
+<Date_Tirage>07/01/2005</Date_Tirage>
+<Tirage>03 23 27 47 50</Tirage>
+<Complementaire>2 3</Complementaire>
+</DATA>
+<DATA id="228"><Numero_Tirage>2004 047</Numero_Tirage>
+<Date_Tirage>31/12/2004</Date_Tirage>
+<Tirage>07 08 24 25 47</Tirage>
+<Complementaire>8 9</Complementaire>
+</DATA>
+<DATA id="229"><Numero_Tirage>2004 046</Numero_Tirage>
+<Date_Tirage>24/12/2004</Date_Tirage>
+<Tirage>03 04 27 29 37</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="230"><Numero_Tirage>2004 045</Numero_Tirage>
+<Date_Tirage>17/12/2004</Date_Tirage>
+<Tirage>15 19 22 46 49</Tirage>
+<Complementaire>2 9</Complementaire>
+</DATA>
+<DATA id="231"><Numero_Tirage>2004 044</Numero_Tirage>
+<Date_Tirage>10/12/2004</Date_Tirage>
+<Tirage>01 03 13 16 43</Tirage>
+<Complementaire>2 7</Complementaire>
+</DATA>
+<DATA id="232"><Numero_Tirage>2004 043</Numero_Tirage>
+<Date_Tirage>03/12/2004</Date_Tirage>
+<Tirage>01 11 15 42 49</Tirage>
+<Complementaire>3 4</Complementaire>
+</DATA>
+<DATA id="233"><Numero_Tirage>2004 042</Numero_Tirage>
+<Date_Tirage>26/11/2004</Date_Tirage>
+<Tirage>01 04 24 34 36</Tirage>
+<Complementaire>6 8</Complementaire>
+</DATA>
+<DATA id="234"><Numero_Tirage>2004 041</Numero_Tirage>
+<Date_Tirage>19/11/2004</Date_Tirage>
+<Tirage>01 18 29 34 37</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="235"><Numero_Tirage>2004 040</Numero_Tirage>
+<Date_Tirage>12/11/2004</Date_Tirage>
+<Tirage>04 11 12 13 32</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="236"><Numero_Tirage>2004 039</Numero_Tirage>
+<Date_Tirage>05/11/2004</Date_Tirage>
+<Tirage>06 19 25 42 49</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="237"><Numero_Tirage>2004 038</Numero_Tirage>
+<Date_Tirage>29/10/2004</Date_Tirage>
+<Tirage>01 08 32 35 38</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="238"><Numero_Tirage>2004 037</Numero_Tirage>
+<Date_Tirage>22/10/2004</Date_Tirage>
+<Tirage>01 09 23 25 40</Tirage>
+<Complementaire>3 9</Complementaire>
+</DATA>
+<DATA id="239"><Numero_Tirage>2004 036</Numero_Tirage>
+<Date_Tirage>15/10/2004</Date_Tirage>
+<Tirage>14 21 22 37 43</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="240"><Numero_Tirage>2004 035</Numero_Tirage>
+<Date_Tirage>08/10/2004</Date_Tirage>
+<Tirage>01 10 12 16 48</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="241"><Numero_Tirage>2004 034</Numero_Tirage>
+<Date_Tirage>01/10/2004</Date_Tirage>
+<Tirage>12 20 21 45 48</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="242"><Numero_Tirage>2004 033</Numero_Tirage>
+<Date_Tirage>24/09/2004</Date_Tirage>
+<Tirage>21 26 27 44 48</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="243"><Numero_Tirage>2004 032</Numero_Tirage>
+<Date_Tirage>17/09/2004</Date_Tirage>
+<Tirage>15 18 29 39 41</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="244"><Numero_Tirage>2004 031</Numero_Tirage>
+<Date_Tirage>10/09/2004</Date_Tirage>
+<Tirage>05 25 33 36 38</Tirage>
+<Complementaire>2 5</Complementaire>
+</DATA>
+<DATA id="245"><Numero_Tirage>2004 030</Numero_Tirage>
+<Date_Tirage>03/09/2004</Date_Tirage>
+<Tirage>08 12 14 15 34</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="246"><Numero_Tirage>2004 029</Numero_Tirage>
+<Date_Tirage>27/08/2004</Date_Tirage>
+<Tirage>01 11 22 28 44</Tirage>
+<Complementaire>1 9</Complementaire>
+</DATA>
+<DATA id="247"><Numero_Tirage>2004 028</Numero_Tirage>
+<Date_Tirage>20/08/2004</Date_Tirage>
+<Tirage>06 09 10 27 35</Tirage>
+<Complementaire>6 8</Complementaire>
+</DATA>
+<DATA id="248"><Numero_Tirage>2004 027</Numero_Tirage>
+<Date_Tirage>13/08/2004</Date_Tirage>
+<Tirage>20 27 41 43 50</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="249"><Numero_Tirage>2004 026</Numero_Tirage>
+<Date_Tirage>06/08/2004</Date_Tirage>
+<Tirage>05 15 24 35 44</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="250"><Numero_Tirage>2004 025</Numero_Tirage>
+<Date_Tirage>30/07/2004</Date_Tirage>
+<Tirage>09 10 19 37 50</Tirage>
+<Complementaire>1 6</Complementaire>
+</DATA>
+<DATA id="251"><Numero_Tirage>2004 024</Numero_Tirage>
+<Date_Tirage>23/07/2004</Date_Tirage>
+<Tirage>07 10 27 31 34</Tirage>
+<Complementaire>3 8</Complementaire>
+</DATA>
+<DATA id="252"><Numero_Tirage>2004 023</Numero_Tirage>
+<Date_Tirage>16/07/2004</Date_Tirage>
+<Tirage>24 26 31 38 50</Tirage>
+<Complementaire>5 8</Complementaire>
+</DATA>
+<DATA id="253"><Numero_Tirage>2004 022</Numero_Tirage>
+<Date_Tirage>09/07/2004</Date_Tirage>
+<Tirage>02 05 12 19 44</Tirage>
+<Complementaire>8 9</Complementaire>
+</DATA>
+<DATA id="254"><Numero_Tirage>2004 021</Numero_Tirage>
+<Date_Tirage>02/07/2004</Date_Tirage>
+<Tirage>04 23 24 28 34</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="255"><Numero_Tirage>2004 020</Numero_Tirage>
+<Date_Tirage>25/06/2004</Date_Tirage>
+<Tirage>03 21 30 34 35</Tirage>
+<Complementaire>1 2</Complementaire>
+</DATA>
+<DATA id="256"><Numero_Tirage>2004 019</Numero_Tirage>
+<Date_Tirage>18/06/2004</Date_Tirage>
+<Tirage>02 23 28 40 43</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="257"><Numero_Tirage>2004 018</Numero_Tirage>
+<Date_Tirage>11/06/2004</Date_Tirage>
+<Tirage>02 07 08 10 47</Tirage>
+<Complementaire>1 7</Complementaire>
+</DATA>
+<DATA id="258"><Numero_Tirage>2004 017</Numero_Tirage>
+<Date_Tirage>04/06/2004</Date_Tirage>
+<Tirage>09 13 34 41 42</Tirage>
+<Complementaire>3 7</Complementaire>
+</DATA>
+<DATA id="259"><Numero_Tirage>2004 016</Numero_Tirage>
+<Date_Tirage>28/05/2004</Date_Tirage>
+<Tirage>06 11 35 41 44</Tirage>
+<Complementaire>5 6</Complementaire>
+</DATA>
+<DATA id="260"><Numero_Tirage>2004 015</Numero_Tirage>
+<Date_Tirage>21/05/2004</Date_Tirage>
+<Tirage>15 29 37 39 49</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="261"><Numero_Tirage>2004 014</Numero_Tirage>
+<Date_Tirage>14/05/2004</Date_Tirage>
+<Tirage>01 03 21 32 39</Tirage>
+<Complementaire>2 6</Complementaire>
+</DATA>
+<DATA id="262"><Numero_Tirage>2004 013</Numero_Tirage>
+<Date_Tirage>07/05/2004</Date_Tirage>
+<Tirage>15 16 21 36 38</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="263"><Numero_Tirage>2004 012</Numero_Tirage>
+<Date_Tirage>30/04/2004</Date_Tirage>
+<Tirage>05 06 16 23 27</Tirage>
+<Complementaire>6 7</Complementaire>
+</DATA>
+<DATA id="264"><Numero_Tirage>2004 011</Numero_Tirage>
+<Date_Tirage>23/04/2004</Date_Tirage>
+<Tirage>06 10 21 45 49</Tirage>
+<Complementaire>3 5</Complementaire>
+</DATA>
+<DATA id="265"><Numero_Tirage>2004 010</Numero_Tirage>
+<Date_Tirage>16/04/2004</Date_Tirage>
+<Tirage>14 15 28 35 40</Tirage>
+<Complementaire>1 3</Complementaire>
+</DATA>
+<DATA id="266"><Numero_Tirage>2004 009</Numero_Tirage>
+<Date_Tirage>09/04/2004</Date_Tirage>
+<Tirage>01 04 10 19 23</Tirage>
+<Complementaire>2 8</Complementaire>
+</DATA>
+<DATA id="267"><Numero_Tirage>2004 008</Numero_Tirage>
+<Date_Tirage>02/04/2004</Date_Tirage>
+<Tirage>04 12 24 27 36</Tirage>
+<Complementaire>2 9</Complementaire>
+</DATA>
+<DATA id="268"><Numero_Tirage>2004 007</Numero_Tirage>
+<Date_Tirage>26/03/2004</Date_Tirage>
+<Tirage>03 04 10 23 43</Tirage>
+<Complementaire>2 4</Complementaire>
+</DATA>
+<DATA id="269"><Numero_Tirage>2004 006</Numero_Tirage>
+<Date_Tirage>19/03/2004</Date_Tirage>
+<Tirage>33 36 37 42 45</Tirage>
+<Complementaire>4 9</Complementaire>
+</DATA>
+<DATA id="270"><Numero_Tirage>2004 005</Numero_Tirage>
+<Date_Tirage>12/03/2004</Date_Tirage>
+<Tirage>15 24 28 44 47</Tirage>
+<Complementaire>4 5</Complementaire>
+</DATA>
+<DATA id="271"><Numero_Tirage>2004 004</Numero_Tirage>
+<Date_Tirage>05/03/2004</Date_Tirage>
+<Tirage>04 07 33 37 39</Tirage>
+<Complementaire>1 5</Complementaire>
+</DATA>
+<DATA id="272"><Numero_Tirage>2004 003</Numero_Tirage>
+<Date_Tirage>27/02/2004</Date_Tirage>
+<Tirage>14 18 19 31 37</Tirage>
+<Complementaire>4 5</Complementaire>
+</DATA>
+<DATA id="273"><Numero_Tirage>2004 002</Numero_Tirage>
+<Date_Tirage>20/02/2004</Date_Tirage>
+<Tirage>07 13 39 47 50</Tirage>
+<Complementaire>2 5</Complementaire>
+</DATA>
+<DATA id="274"><Numero_Tirage>2004 001</Numero_Tirage>
+<Date_Tirage>13/02/2004</Date_Tirage>
+<Tirage>16 29 32 36 41</Tirage>
+</DATA>
+</body>

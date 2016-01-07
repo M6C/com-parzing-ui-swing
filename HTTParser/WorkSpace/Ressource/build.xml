@@ -1,0 +1,10 @@
+<!--
+ $Id: build.xml,v 1.2 2006/02/21 14:17:08 vpetchen Exp $
+-->
+<project name="all" basedir=".">
+
+	<target name="all">
+  		<jar jarfile="${basedir}/lib/ressource.jar" basedir="${basedir}/bin" />
+	</target>
+
+</project>

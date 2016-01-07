@@ -1,0 +1,90 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  September 9th 2009 11:41:40 AM PDT                           */
+/*      Machine:  10.16.139.108                                                */
+/*       Source:  Local Cache                                                  */
+/*     Location:  rsrc:4:4ohv0knp                                              */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/5wpqka9x3poocc4s.pkg.css                                 */
+
+#attachment_buttons_list{clear:both}
+#attachment_buttons_list label{float:left;display:block;padding:6px 4px;color:#666}
+#attachment_buttons_list .empty_item{padding:6px 0 0 4px}
+#attachment_buttons_list .attachment_link{float:left}
+#attachment_buttons_list .attachment_link a{display:block;margin:2px;white-space:nowrap;cursor:pointer}
+#attachment_buttons_list .attachment_link a span{display:block;padding:4px 6px 4px 24px;background-repeat:no-repeat;background-position:5% 3px}
+#attachment_buttons_list .attachment_link a:hover{color:#444;margin:1px;border:1px solid #a9a9a9;background:#f1f1f1 url(/rsrc.php/z1LTZ/hash/eu9ojh1u.gif) repeat-x top left}
+.attachment_dialog .generic_dialog_popup{width:500px}
+.attachment_view_wrapper{display:none;margin:6px 0 8px 0}
+.attachment_edit_loading,
+.attachment_view_loading{display:none;background:url(/rsrc.php/zBS5C/hash/7hwy7at6.gif) center no-repeat;clear:both;padding:6px 0}
+.attachment_view_container{float:left;padding-bottom:6px}
+.attachment_view_loading{padding-bottom:0}
+.attachment_remove{font-size:9px;text-align:right;padding-bottom:3px}
+.attachment_edit .attachment_stage{background:white;border:0 none}
+.attachment_edit .attachment_stage_area{padding:0}
+.attachment_edit .attachment_stage_area .share_a_link .inputtext{width:300px}
+.attachment_edit .attachment_stage .has_image .summary_wrap{width:334px}
+.attachment_view{width:378px}
+.attachment_view .attachment_stage .has_image .summary_wrap{width:243px}
+.attachment_stage .UIStoryAttachment_MediaSingle{padding-right:5px}
+.attachment_view .attached_item{background:white;border:1px solid #bdc7d8;padding:6px;margin-top:0}
+.attached_item{margin:10px 0 0;padding:0 0 0 7px;border-left:2px solid #e0e0e0;overflow:hidden}
+.attached_item.no_text,
+.attached_item_info.no_text{margin-top:0}
+div.attachment_info{clear:both;color:#666;font-size:9px;padding:8px 0 3px 0}
+div.attachment_info span{padding:3px 0 2px 21px;background-repeat:no-repeat;background-position:center left}
+#attachment_more_menu{float:left;margin-top:3px}
+#attachment_more_menu #attachment_more_link{padding:1px 5px 3px 13px;color:#3b5998;display:inline-block;border:1px solid #fff;background:url(/rsrc.php/z58JV/hash/5pfa3ppg.gif) no-repeat left 1px}
+#attachment_more_menu #attachment_more_link:hover,
+#attachment_more_menu #attachment_more_link.active,
+#attachment_more_menu #attachment_more_link.active:hover{color:#fff;cursor:pointer;background-color:#5c75aa;background-position:left -15px;text-decoration:none}
+#attachment_more_menu #attachment_more_link.active,
+#attachment_more_menu #attachment_more_link.active:hover{border:1px solid #3b5998}
+#attachment_more_menu #wall_attachment_more_menu{padding:5px 0;position:absolute;top:18px;left:0;background:white;border:solid 1px #3b5998}
+#attachment_more_menu #wall_attachment_more_menu a{display:block;color:#3b5998;width:112px;padding:3px 5px 3px 7px}
+#attachment_more_menu #wall_attachment_more_menu a:hover{text-decoration:none;background:#5c75aa;color:#fff;cursor:pointer}
+#wall_attachment_more_menu{width:128px}
+#wall_attachment_more_menu .menu_content{padding:5px 0}
+#wall_attachment_more_menu a:hover
+.attachment_more_menu_option_icon{background-position:top left}
+#wall_attachment_more_menu
+.attachment_more_menu_option_icon{float:left;width:16px;line-height:16px;background-position:-16px 0;background-repeat:no-repeat}
+#wall_attachment_more_menu
+.attachment_more_menu_option_text{float:left;display:block;text-align:left;padding-left:6px}
+.composer{padding:30px 0 10px 120px;border-bottom:1px solid #d7d7d7;border-left:1px solid #d7d7d7;border-right:1px solid #d7d7d7;background:#f7f7f7}
+.composer_fields{margin:0;width:488px}
+.composer_fields dt{float:left;width:95px;margin:0;padding:0 10px 0 0;text-align:right}
+.composer_fields label{display:block;padding-top:6px}
+.composer_fields .field label{padding-bottom:5px}
+.composer_fields_with_privacy.composer_fields #dd_message_field label{float:left}
+.composer_fields_with_privacy.composer_fields .privacy_widget{float:right}
+.composer_fields dd{float:left;width:382px;margin:0 0 10px 0}
+.composer_fields .field input.inputtext,
+.composer_fields .field textarea,
+#compose_message div.tokenizer{border:1px solid #8496ba}
+#compose_message div.tokenizer{width:352px}
+.fbpage_updates .composer{border-top:1px solid #898989}
+.composer_field_border,
+.composer_field_inner_shadow{clear:both;display:inline-block}
+.composer_fields .field #subject_field,
+.composer_fields textarea{width:357px;margin:0;padding:5px 0 5px 3px;font-size:11px}
+.composer_fields textarea{height:100px}
+.composer_fields span.readonly{padding-top:6px;display:block}
+.composer_fields .submits input.inputsubmit{padding-top:2px;padding-bottom:3px;margin-right:5px}
+.composer_fields .submits .submits_wrap{float:left}
+.composer_fields .submits .sub_controls{float:right;padding:6px 0 0 0;font-size:9px}
+input.action{padding-left:25px;padding-right:25px}
+input.aux{padding-left:15px;padding-right:15px;background:#f0f0f0;color:#000;border-top-color:#e7e7e7;border-right-color:#666;border-bottom-color:#666;border-left-color:#e7e7e7}
+.thread input#exit_button{width:auto}
+.attachment_stage{border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:#f0f0f0}
+.inbox .visibility_warning{padding-bottom:5px;font-size:9px;color:#666}
+.inbox #error{margin-right:80px}
+.inbox #compose_message #error{margin:0 100px 10px 75px}
+.pop_dialog #compose_message #error{margin:0 10px 10px 10px}
+.pop_dialog #compose_message #error h2{font-size:13px;background:none;border:none}
+#book #inline_composer #error{margin:0 40px 10px 75px}
+#book #inline_composer .status{margin-left:75px}
+#inline_composer{margin-top:10px;margin-bottom:15px;border:0;margin-left:170px;background:#fff}
+#inline_composer .attach_dropdown{margin:2px 0 0 0;float:right}
+
+#bootloader_css_5wpqka9x3poocc4s_pkg_css { height: 42px; }

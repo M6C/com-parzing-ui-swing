@@ -1,0 +1,305 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  September 1st 2009 9:58:16 AM PDT                            */
+/*      Machine:  10.16.140.108                                                */
+/*       Source:  Global Cache                                                 */
+/*     Location:  css/dbm1oipu4g008s4s.pkg.css h:5b020kqc                      */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/dbm1oipu4g008s4s.pkg.css                                 */
+
+.fp.my_friends #content{background:#fff}
+.fp.other_friends #content{background:#fff}
+.fp #content .status{border-left:none;border-top:none;border-right:none;margin:0;padding:10px 20px}
+.fp #status_editor{float:none;margin-top:1px;margin-left:1px}
+.fp .remove_click .generic_dialog_popup{width:410px}
+.fp #status_editor .field{padding:4px 4px 5px 0;float:left}
+#fpgc{width:100%;border:1px solid #ccc;background:#f7f7f7}
+#fpgc tr,
+#fpgc td{vertical-align:top}
+#friends_left_cell{width:158px;border-right:1px solid #ccc}
+#friends_left_cell h3{color:#444;font-size:11px;font-weight:bold;margin:12px 4px 10px 12px}
+#friends_right_cell{background:#fff}
+#friend_filters{padding:8px 7px 10px 12px;overflow:hidden}
+#friend_filters #friend_pills_label{color:#888;float:left;font-size:11px;font-weight:bold;padding:4px 8px 0 0}
+#friend_filters #friend_pills{float:left;padding-bottom:5px;padding-top:2px}
+.show_search{display:block}
+.hide_search{display:none}
+#friend_filters #friend_search{float:right}
+#friend_filters .friend_search .inputsearch{width:125px}
+.accessibility_instructions{display:none}
+.phonebook_search{float:right}
+.phonebook_search .inputtext{width:120px;background:white url(/rsrc.php/z6L4N/hash/a602ye7q.png) no-repeat scroll 3px 4px;padding-left:17px}
+.draggable_friend{background-color:#f7f7f7;background-image:url(/rsrc.php/z4WYI/hash/ua0bfdzs.gif);background-position:3px 3px;background-repeat:no-repeat;border:solid #ccc 1px;color:#444;display:block;font-size:12px;font-weight:bold;filter:alpha(opacity=80);height:18px;opacity:.80;padding:5px 8px 3px 24px;position:absolute;z-index:100}
+.fp .friend_finder{background:transparent url(/rsrc.php/z8JCI/hash/88timxhk.gif) no-repeat left 1px;float:right;margin:1px 0 0;padding:3px 8px 4px 20px}
+.fdh .content img#friends_loading{display:none;float:left;margin:6px 0 0 3px}
+.fdh h2.friends_page_title{background-image:url(/rsrc.php/z1VOC/hash/1sujd4cd.gif);background-position:left 3px;background-repeat:no-repeat;display:block;padding-left:19px;padding-right:7px}
+#friends_page_subtitle{background-image:url(/rsrc.php/zAMMG/hash/cnux9fva.gif);background-position:left 6px;background-repeat:no-repeat;color:#666;float:left;font-weight:bold;font-size:13px;margin:0 6px 0 0;padding:2px 0 0 12px}
+#friends_page_subtitle.no_title{display:none}
+.fdh h2.friends_page_title.all{background-position:left -284px}
+.fdh h2.friends_page_title.list{background-position:left -244px}
+#friend_list_name_input{display:none}
+.fdh .content{padding:0 12px 17px 0}
+.fdh h2{float:left;font-size:14px;padding-left:8px;padding-left:0;padding-top:1px}
+.fdh form{float:right;width:150px;text-align:right}
+.other_friends .media_header{margin-bottom:10px}
+.frn{margin:0 0 0;padding:0 0 10px 0;background:#f7f7f7;border:solid #ccc 0;border-right:none}
+.frn_inpad{position:relative;right:0}
+.column_null_state{margin-top:0}
+.frn h3{color:#444;font-weight:bold;font-size:11px;padding:6px 0 4px 12px}
+.frn .sidebar_item_header{background:#e9e9e9;margin:8px 5px 0 5px;padding:3px 5px 4px 7px}
+.frn .sidebar_item_header h2{color:#444;float:left;font-size:11px}
+.frni{background-color:#f7f7f7;margin-right:0;overflow:hidden;width:159px}
+.frni.active_list{margin-left:-1px;width:160px}
+.frni a{background-color:transparent;background-position:12px 6px;background-repeat:no-repeat;border-top:solid 1px #f7f7f7;border-bottom:solid 1px #f7f7f7;display:block;height:14px;margin-left:0;overflow:hidden;padding:4px 4px 4px 33px;white-space:nowrap}
+.frn_editlist .inputtext{width:95px}
+.frni a:focus{outline:0}
+.frni a:hover,
+.frni a.hover{background-color:#d8dfea;border-top:solid 1px #d8dfea;text-decoration:none}
+.frni .active_list_a:hover,
+.frni .active_list_a.hover{border-top:1px solid #3b5998}
+.dragging .frni.list a.hover{color:#4a4}
+.dragging .frni.active_list a.hover,
+.dragging .frni.all a.hover{color:#a44}
+.frni.all a{border-top:solid #f7f7f7 1px}
+.frni.active_list a{background-color:#6d84b4;background-position:6% 6px;border:solid 1px #3b5998;border-left:1px solid #3b5998;color:#fff;border-right:1px solid #6179ad;margin-left:0}
+.frn .renameList{background-color:#6d84b4;background-position:6% -83px;background-repeat:no-repeat;border:solid 1px #3b5998;border-left:1px solid #3b5998;color:#fff;border-right:1px solid #6179ad;margin-left:0;padding:0;padding-right:0;padding-left:10px;background-image:none;overflow:hidden}
+.frn .renameList .inputtext{width:115px;margin:0}
+.frni.list .active_list_a{border-right:0}
+.frni.prev a{border-top:solid #f7f7f7 1px}
+.frni.prev a:hover,
+.frni.prev a.hover{border-top:solid #d8dfea 1px}
+.frni a{background-image:url(/rsrc.php/z1VOC/hash/1sujd4cd.gif)}
+.frni.all a{background-position:6% -123px}
+.frni.all a:hover,
+.frni.all a.hover{background-position:6% -163px}
+.frni.all .active_list_a{background-position:6% -203px}
+.frni.list a{background-position:6% -3px}
+.frni.list a:hover,
+.frni.list a.hover{background-position:6% -43px}
+.frni.list .active_list_a{background-position:6% -83px}
+.frni a.rename_list{display:none}
+.frni.list a.rename_list{background-image:none;background-color:transparent;float:right;font-size:9px;height:16px;margin:0;padding:6px 3px 0 2px}
+.frni.active_list a.rename_list{background:#6d84b4;border:solid #3b5998 1px;border-left:none;border-right:none;color:#d8dfea;display:block}
+.frni.all a.rename_list{display:none}
+.frni.all .active_list_a:hover{background-color:#6d84b4;background-position:6% -203px}
+.frni.list .active_list_a:hover{background-color:#6d84b4;background-position:6% -83px}
+.frni.active_list a.rename_list:hover{background:#6d84b4}
+.frn .frn_makelist .frn_mlbut{padding:14px 5px 0 8px}
+.frn .frn_editlist{background-color:#6d84b4;background-image:url(/rsrc.php/z1VOC/hash/1sujd4cd.gif);background-position:6% -80px;background-repeat:no-repeat;border:solid 1px #3b5998;border-left:1px solid #3b5998;border-right:1px solid #6179ad;color:#fff;margin-right:0;margin-left:5px;padding:4px 3px 4px 30px}
+.frn .frn_editlist .inputtext{width:95px}
+.frn #friends_makelist{margin-left:0}
+.frn #friends_newlist{position:relative;z-index:1}
+.frn #friends_newlist,
+.frn #friends_makelist{height:60px}
+.frn #friends_newlist .fl_step{background-color:transparent;background-image:url(/rsrc.php/z5EQP/hash/ef4z30v2.png);background-position:top left;background-repeat:no-repeat;margin:7px 8px 8px 5px;padding-top:8px 10px;position:absolute;width:200px;z-index:1}
+.frn .frn_boot{margin:0 0 20px 0;padding:0 4px 0 5px}
+.frn .frn_boot .frn_boot_icon{background-image:url(/rsrc.php/z1VOC/hash/1sujd4cd.gif);background-position:5px -4px;background-repeat:no-repeat;float:left;height:22px;width:25px}
+.frn .frn_boot .frn_boot_text{display:table}
+.frn .people_you_may_know,
+.frn .invite_friends{margin:4px 8px 0 12px;padding:6px 0 8px 26px;background-repeat:no-repeat;background-position:left 6px;border-bottom:solid #ddd 1px}
+.frn .people_you_may_know{background-image:url(/rsrc.php/z4WYI/hash/ua0bfdzs.gif)}
+.frn .invite_friends{background-image:url(/rsrc.php/zEE8D/hash/6oyzh0ri.gif);border-bottom:none}
+.frn .status_syndicate{margin:8px 0 0 12px}
+.frn .status_syndicate a.sub{background:transparent url(/rsrc.php/z7VSQ/hash/5ox2gwd7.gif) no-repeat left .3em;display:block;padding:3px 0 4px 21px}
+.frn .status_syndicate a.lm{display:block;font-size:9px;padding:0 0 0 21px}
+.frn .toggletiny{display:block}
+.tiny .frn .toggletiny,
+.frn .toggletiny2{display:none}
+.tiny .frn .toggletiny2{display:block}
+.frn .toggletiny,
+.frn .toggletiny2{background-repeat:no-repeat;border-top:solid #ccc 1px;margin:4px 8px 0 0;padding:8px 0 16px 24px}
+.frn .toggletiny{background-image:url(/rsrc.php/z6TG0/hash/8vb8b6nn.gif);background-position:5px 8px}
+.frn .toggletiny2{background-image:url(/rsrc.php/z1VOC/hash/1sujd4cd.gif);background-position:5px -120px}
+.fmp{background:#fff;padding:0}
+.fmp_null_state{border-top:1px solid #ccc}
+.fmp .drag_tip{background-color:#f9fff9;border-bottom:solid #ccc 1px;color:#121;display:none;padding:8px 10px}
+.fmp .drag_tip b{color:#343}
+.tiny .fmp .drag_tip{display:block}
+.fmp #friends_target{}
+.fmp #friends_target .ferror{background:#ffebe8;border:1px solid #dd3c10;margin:10px;padding:10px}
+.fmp .fadvfilt{background:#fff;clear:both;padding:0 12px;padding-bottom:8px}
+.fmp .fadvfilt #friends_nk{margin-right:4px}
+.fmp .fadvfilt b{color:#555;padding-right:5px}
+.fmp .fadvfilt.hide_advanced{display:none}
+.fmp .fsummary{background:#fff}
+.fmp .fsummary .pagerpro{margin:3px 0 0}
+.fmp .fsummary .name{height:20px;padding:4px 0 0 12px}
+.fmp .fsummary .name h2{padding-top:4px}
+.fmp .fsummary input{color:#444;display:none;font-size:12px;font-weight:bold;width:200px}
+.fmp .fsummary h2.editable .click_to_edit{color:#777;color:#3b5998;font-size:9px;font-weight:normal;margin-left:4px}
+.fmp .fsummary .bar{border-color:#ddd;padding:0 12px}
+.fmp .flistedit{background:#f7f7f7;border-bottom:solid #ddd 1px;padding:4px 12px}
+.fmp .flistedit b{color:#555}
+#fpgc .fmp .flistedit tr,
+#fpgc .fmp .flistedit td{vertical-align:middle}
+#fpgc .fmp .flistedit td{padding-right:6px}
+.fmp .flistedit input{width:220px}
+.fmp .fl_step{background-image:url(/rsrc.php/z1BLX/hash/8kj0ouvs.gif);background-position:top left;background-repeat:no-repeat;margin:16px 108px 8px 90px;padding-top:10px}
+.fmp #friends_multiselect{border-bottom:solid #ddd 1px}
+.fmp #friends_multiselect,
+.fmp #fb_multi_friend_selector_wrapper{background:#f7f7f7}
+.fmp #fb_multi_friend_selector_wrapper{margin:0;padding:9px 12px 12px}
+.fmp #fb_multi_friend_selector{margin:2px 0;padding:0}
+.fmp #fb_multi_friend_selector.num_cols_3{width:488px}
+.fmp #fb_multi_friend_selector h2{color:#555;font-size:11px;font-weight:bold;padding:8px 0 6px}
+.fmp #fb_multi_friend_selector_wrapper #friends{background:#fff}
+.fmp .fmp_delete{background:#f7f7f7;border-top:solid 1px #e7e7e7;clear:both;padding:8px 12px}
+.fmp .footer_bar{background:#fff;border-top:none;padding:0 10px 4px;margin-top:3px}
+.fmp .footer_bar .fquail{color:#fff;cursor:default;float:left;font-size:6px;padding-top:7px}
+.frn_mlbut a:hover{color:#fff;text-decoration:underline}
+.make_new_list_button_table{cursor:pointer;margin:0;padding:0;border:0;color:#fff}
+.make_new_list_button_table:hover{text-decoration:underline;color:#fff}
+.make_new_list_button_table .button_main{background:#6d84b4;text-align:left;border:1px solid #3b5998;border-left:0;padding:0;color:#fff}
+.make_new_list_button_table .button_main .button_text{margin:0;padding:4px 10px 5px 6px;border-top:1px solid #bfc9dc}
+.make_new_list_button_table .button_main .button_text:hover{text-decoration:underline}
+.make_new_list_button_table .button_left{background-image:url(/rsrc.php/z8FPH/hash/8qs8o635.gif);background-position:4px 4px;background-repeat:no-repeat;background-color:#fff;border:1px solid #b7b7b7;border-right:0;width:26px}
+.ffriends{background:#fff}
+.ffriend{background:transparent;border-bottom:solid 1px #ddd;line-height:14px;padding:8px 10px 8px 12px}
+.ffriends .grid{display:block;float:left;padding:3px 0 0 4px}
+.ffriend .fpic{display:block;float:left;overflow:hidden;margin:0 9px 0 0;min-height:50px;padding:0}
+.ffriend.click{background:#fbfdff}
+.ffriend.click .fpic .UIProfileImage,
+.ffriend .fpic .sm{display:none}
+.ffriend.click .fpic .sm{display:block}
+.ffriend .factions{float:right}
+.ffriend .factions a{display:block;float:left;height:14px;margin-left:1px;margin-top:1px;padding:0;width:13px}
+.ffriend .factions .fadd{float:left;margin:0 4px 0 0;text-align:right}
+.ffriend .factions .fadd a{display:block;margin:0;padding:0;width:85px}
+.ffriend .factions a:hover{text-decoration:none}
+.ffriend .factions .fadd a:hover{text-decoration:underline}
+.ffriend .factions a.remove{background-color:transparent;background-image:url(/rsrc.php/z574F/hash/38fffwed.gif)}
+.ffriend .factions a.remove:hover{background-color:transparent;background-image:url(/rsrc.php/zD93Q/hash/6aqv88j2.gif)}
+.ffriend .factions a.toggle{background-color:transparent;background-image:url(/rsrc.php/z7LHO/hash/56zk9pp2.gif);background-position:left 14px}
+.ffriend .factions a.toggle:hover{background-color:transparent;background-image:url(/rsrc.php/z14LU/hash/650sltk5.gif);background-position:left 14px}
+.ffriend.click .factions a.toggle{background-color:transparent;background-image:url(/rsrc.php/z7LHO/hash/56zk9pp2.gif);background-position:left 0}
+.ffriend.click .factions a.toggle:hover{background-color:transparent;background-image:url(/rsrc.php/z14LU/hash/650sltk5.gif);background-position:left 0}
+.ffriend .fcontent{float:left;width:375px}
+.ffriend.click .fcontent{float:left}
+.my_friends .ffriend .fcontent{width:480px}
+.my_friends .ffriend.click .fcontent{width:325px}
+.other_friends .ffriend .fcontent{width:375px}
+.other_friends .ffriend.click .fcontent{width:375px}
+.ffriend .fcontent .fname{font-size:12px;font-weight:bold}
+.ffriend .fcontent span.fname{color:#444}
+.my_friends .ffriend.click .fcontent .fstatus{display:block;padding:1px 0 0 1px}
+.ffriend .fcontent .frecent,
+.ffriend .fcontent .fadded,
+.ffriend .fcontent .fupdt{color:#777;padding-top:2px}
+.ffriend .fcontent .frecent span{background:#fff8cc;border-bottom:solid 1px #ffe222;color:#222}
+.ffriend .fcontent .fphone{padding-top:2px}
+.ffriend .fcontent .fphone .fphone_label{min-width:42px;padding-right:3px;color:#777;float:left}
+.ffriend .fcontent .fphone .fphone_number{color:#222}
+.ffriend .fcontent .fupdt{height:14px}
+.ffriend .fcontent .flinks{display:none;padding:4px 0 0;position:relative}
+.ffriend.click .fcontent .flinks{display:block}
+.ffriend .fcontent .flinks .pipe{color:#808080}
+.ffriend .fcontent .flinks .flink_listadd{display:none}
+.manylists .ffriend .fcontent .flinks .flink_listadd{display:inline}
+.ffriend .fcontent .flinks .flink_addtolist{background-image:url(/rsrc.php/zEEM2/hash/as7k2ql2.gif);background-repeat:no-repeat;background-position:left 6px;margin-left:1px;padding:0 4px}
+.ffriend .fcontent .flinks a.flink_addtolist:hover{text-decoration:none}
+.fp .flink_dropdown{background:#fff;border:solid #999 1px;line-height:14px;position:absolute;width:140px;z-index:100}
+.fp .flink_dropdown p{color:#333;margin:0;padding:8px;text-align:center}
+.fp .flink_dropdown span{background-color:#f7f7f7;background-image:url(/rsrc.php/z1VOC/hash/1sujd4cd.gif);background-repeat:no-repeat;background-position:98% -4px;border-bottom:solid #e9e9e9 1px;color:#666;display:block;font-size:9px;padding:3px 4px 2px}
+.fp .flink_dropdown a{color:#333;display:block;padding:3px 4px}
+.fp .flink_dropdown a:hover{background:#666;color:#fff;cursor:pointer;text-decoration:none}
+.ffriend .fcontent .flinks .flink_inner{overflow-y:auto;overflow-x:none;max-height:300px}
+.ffriend .fcontent .fext_short{display:block;padding-top:2px}
+.ffriend .fcontent .fext_short a{color:#556}
+.ffriend.click .fcontent .fext_short{display:none}
+.ffriend .fcontent .fext{border-top:solid #e7e7e7 1px;display:none;margin-top:6px;padding-top:4px}
+.ffriend.click .fcontent .fext{display:block}
+.ffriend .fcontent .fext .fexth{color:#777;padding-bottom:2px;padding-right:12px}
+.ffriend .fcontent .fextsm{padding-bottom:1px}
+.ffriend .fcontent .fextsme{padding-bottom:2px}
+.ffriend .fcontent .fext_short a.fextsm_edit{display:none}
+.ffriend .fcontent .fextsm ul,
+.ffriend .fcontent .fextsm li{color:#444;list-style:none;margin:0;padding:0 0 1px}
+.ffriend .fcontent .fext .fextdetails{padding-top:4px}
+.ffriend .fcontent .fext .fextlistsrow.nolists{display:none}
+.ffriend .fcontent .fext .fextlists{padding-top:4px}
+.ffriend .fcontent .fext a.flistrm{background-image:url(/rsrc.php/z574F/hash/38fffwed.gif);background-position:center center;font-size:9px;margin-left:4px;padding:1px 4px 0}
+.ffriend .fcontent .fext a.flistrm:hover{text-decoration:none;background-image:url(/rsrc.php/zD93Q/hash/6aqv88j2.gif)}
+.ffriend .dragme{cursor:move;display:none}
+.ffriend .draggable{display:none}
+.tiny .ffriend:hover .draggable,
+.tiny .ffriend.hover .draggable{display:block;float:right;margin:1px 0 0;padding:0}
+.my_friends .tiny .ffriend{cursor:move}
+.my_friends .tiny .ffriend:hover,
+.my_friends .tiny .ffriend.hover{background:#fafcff}
+.tiny #friends_target{max-height:500px;overflow:auto}
+.tiny .ffriend .fpic,
+.tiny .ffriend .frecent,
+.tiny .ffriend .fadded,
+.tiny .ffriend .fupdt,
+.tiny .ffriend .flinks{display:none}
+.tiny .ffriend.click .fpic,
+.tiny .ffriend.click .frecent,
+.tiny .ffriend.click .fadded,
+.tiny .ffriend.click .fupdt,
+.tiny .ffriend.click .flinks{display:block}
+.tiny .ffriend .fcontent{width:358px}
+.tiny .ffriend.click .fcontent{width:308px}
+.tiny .ffriend .factions{display:none}
+.fl_step .title{background:#6d84b4;border-left:solid #3b5998 1px;border-right:solid #3b5998 1px;color:#fff;font-weight:bold;padding:4px}
+.fl_step .text{background:#fff;border:solid #999 1px;border-top:none;color:#555;padding:4px 8px}
+.contextual_dialog .generic_dialog_popup{width:390px}
+.fmp #friends_target .no_friends_null_state{background:#fff}
+.fmp #friends_target .friends_init_state{background:#fff}
+.fmp #friends_target .null_image{border:0;margin:0;padding:0}
+.fmp #friends_target .friend_finder_null_state{background:#fff;border:0;margin:0;padding:0}
+.fmp #friends_target .friend_finder_init_state{background:#f7f7f7;border:1px solid #ccc;margin:0 0 10px;padding:15px 15px 15px 5px}
+.fmp #friends_target .friend_finder_init_state h3{color:#000;font-size:13px;font-weight:normal;margin:0;padding:0 0 15px 20px;text-align:left}
+.fmp #friends_target .friend_finder_null_state h3{color:#000;font-size:13px;font-weight:normal;margin:0;padding:0 0 15px 40px;text-align:left}
+.fmp #friends_target.contact_importer_widget{margin:0;padding:0 0 20px}
+.fmp #friends_target .contact_importer_widget .editor{padding:0;margin-left:40px}
+.fmp #friends_target .contact_importer_widget .editor .buttons{padding:0;width:auto}
+.fmp #friends_target #address_book_login_widget{border:0;margin:0;padding:0;width:400px}
+.fmp #friends_target .disclaimer{font-size:9px;margin:0;padding-left:40px;padding-top:15px;text-align:left}
+.fmp #friends_target .find_friends_extra_links{border-top:1px solid #e5e5e5;margin:0 50px 0 40px;padding:15px 0 20px}
+.fmp #friends_target .find_friends_extra_links ul{font-size:13px;list-style:none;margin:0;padding:0}
+.fmp #friends_target .find_friends_extra_links ul li{list-style:none;margin:0;padding:0}
+.fmp .user_status{background-color:#f2f4f7;border-top:1px solid #d8dfea;border-bottom:1px solid #d8dfea;margin-bottom:8px;overflow:hidden;padding-left:10px;padding-top:7px;padding-bottom:3px}
+.fmp .user_status .status_photo{float:left;margin-right:5px}
+.fmp .user_status .status_content{float:left;overflow:hidden;width:522px}
+.ie6 .fmp .user_status .status_content{width:auto}
+.ie6 .fmp .status_composer .status_name{padding:3px 4px 1px 6px}
+.fmp .user_status .status_composer{padding-left:2px;padding-right:6px;width:525px}
+.fmp .user_status .status_composer_inner{background:transparent url(/rsrc.php/z9STH/hash/4clvoa50.gif) no-repeat scroll left -10px;padding-left:5px}
+.fmp .user_status .status_composer .status_field{border-left:medium none}
+.fmp .mobile_status{background-image:url(/rsrc.php/z9QY0/hash/5jenrmnp.gif)}
+.fmp .user_status .status_body{font-size:12px;margin:2px 0 1px 7px}
+.fmp .user_status .status_body .status_time{color:#666;padding-left:5px}
+.fmp .user_status .status_body .status_meta{font-size:10px}
+.fmp .user_status .inputsubmit{display:none}
+.fmp .placeholder_off .inputsubmit{display:inline}
+.fmp .user_status .status_composer .status_field input,
+.fmp .user_status .status_composer .status_field span{font-size:13px}
+.rooster_info{border-bottom:solid 1px #d8dfea;background:#f2f4f7;margin:0;padding:15px 20px 10px 20px}
+.rooster_info h4.privacy_friendlist{font-size:14px;float:left;border-bottom:none;padding:0 10px 2px 0;margin:0 0 0 0}
+.rooster_info .announcement_title{text-align:right;border-bottom:1px solid #d8dfea;padding-top:0}
+.rooster_info p{margin:10px 0 10px 0}
+.user_phone{padding-bottom:5px}
+.phonebook{background:#fff;padding:20px}
+.entry .phone span{color:#999;font-size:9px;padding-left:1px}
+.my_numbers{background-color:#f2f4f7;border-top:1px solid #d8dfea;border-bottom:1px solid #d8dfea;padding:10px 20px 10px}
+.my_numbers .my_numbers_label{color:#333;padding-top:2px;padding-bottom:2px;float:left;font-size:13px;font-weight:bold;width:140px}
+.phonebook_phone_number{float:left;width:205px}
+.phonebook_phone_number .phone_type_label,
+.phonebook_phone_number .my_text_number,
+.phonebook_phone_number .my_text_number_edit,
+.phonebook_phone_number .add_link,
+.phonebook_phone_number .phone_privacy_lock,
+.phonebook_phone_number .phone_input{float:left}
+.phonebook_phone_number .phone_type_label,
+.phonebook_phone_number .my_text_number,
+.phonebook_phone_number .add_link{padding-top:4px;padding-bottom:4px}
+.phonebook_phone_number .phone_privacy_lock{padding-top:6px;padding-bottom:6px}
+.phonebook_phone_number .phone_type_label,
+.phonebook_phone_number .my_text_number,
+.phonebook_phone_number .phone_input{padding-right:4px}
+.phonebook_phone_number .phone_type_label{color:#666;font-weight:bold}
+.phonebook_phone_number .priv_inline a div{background:transparent url(/rsrc.php/zD33J/hash/3nwlysy9.gif) no-repeat 0 0;height:10px;margin:0;width:10px;padding:0}
+.phonebook_phone_number .priv_inline a:hover{background-position:left -15px;cursor:pointer}
+.phonebook_phone_number .phone_input input{width:110px}
+.phonebook_phone_number .instruct{display:block;clear:both;font-size:9px;color:#999;margin:2px 0 0 0;padding:0}
+
+#bootloader_css_dbm1oipu4g008s4s_pkg_css { height: 42px; }
